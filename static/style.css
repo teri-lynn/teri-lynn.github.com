@@ -10,6 +10,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Spinnaker', 'Helvetica', 'Helvetica Neue', 'Arial', sans-serif;
 }
 
+html {
+  overflow-y: scroll;
+}
+
 a {
   color: #FF0099;
   text-decoration: none;
