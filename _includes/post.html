@@ -1,9 +1,9 @@
 <header>
   <h1>{{ post.title }}</h1>
-  <span class="date">written on
+  <div class="date">written on
     <time datetime="{{ post.date | date_to_xmlschema }}">
       {{ post.date | date: '%A, %B %d, %Y' }}
     </time>
-  </span>
+  </div>
 </header>
 {{ post.content }}
