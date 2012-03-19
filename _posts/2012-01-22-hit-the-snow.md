@@ -43,7 +43,7 @@ these sports!
 
 ### Skating
 
-Frozen ponds, backyard rinks, or city-built pads…find one, and lace up! Play 
+Frozen ponds, backyard rinks, or city-built pads; find one, and lace up! Play 
 some hockey, or just go for a skate! 
 
 ### Tobogganing / Tubing
