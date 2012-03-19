@@ -4,6 +4,16 @@ layout: default
 
 {% for post in site.posts limit:5 %}
   <article>
-    {% include post.html %}
+    <header>
+      <h1>{{ post.title }}</h1>
+      <div class="date">
+        <span>written on
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: '%A, %B %d, %Y' }}
+          </time>
+        </span>
+      </div>
+    </header>
+    {{ post.content }}
   </article>
 {% endfor %}
