@@ -5,7 +5,7 @@ layout: default
 {% for post in site.posts limit:5 %}
   <article>
     <header>
-      <h1>{{ post.title }}</h1>
+      <h1 class="post"><a href="{{ post.url }}">{{ post.title }}</a></h1>
       <div class="date">
         <span>written on
           <time datetime="{{ post.date | date_to_xmlschema }}">
