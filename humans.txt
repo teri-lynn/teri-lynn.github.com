@@ -1,0 +1,6 @@
+Powered By
+==========
+
+GitHub: https://github.com/
+Jekyll: http://jekyllrb.com/
+Normalize.css: http://necolas.github.com/normalize.css/

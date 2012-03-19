@@ -1,1 +1,9 @@
-TODO
+---
+layout: default
+---
+
+{% for post in site.posts limit:5 %}
+  <article>
+    {% include post.html %}
+  </article>
+{% endfor %}

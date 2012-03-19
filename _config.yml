@@ -1,0 +1,22 @@
+markdown: redcarpet
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - mkpost.bat
+  - mkpost.rb
+  - LICENSE
+  - README
+
+url: http://teri-lynn.ca
+feed_url: http://teri-lynn.ca/atom.xml
+
+year: 2012
+author: 'Teri-Lynn Nelson'
+description: 'Personal thoughts on teaching, fitness, and health.'
+
+facebook:
+  admin: 502432037
+  app_id: 188498984506227
+
+google:
+  analytics_id: UA-22670636-1
