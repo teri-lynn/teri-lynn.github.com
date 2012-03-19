@@ -3,14 +3,14 @@ layout: page
 permalink: /about/
 ---
 
-## Teaching
+# Teaching
 
 I graduated from Brock University with a Bachelors of Physical Education 
 (Honours) and a Bachelor of Education. I am qualified to teach Health and 
 Physical Education and Geography at the Intermediate and Senior levels. 
 While at Brock I also competed on the cross country team.
 
-## Training
+# Training
 
 I am currently working at the Aurora Women's GoodLife as a Level 2 Personal 
 Training Specialist. Sports and fitness have always been my passion, so helping 
@@ -18,9 +18,9 @@ people reach their goals is a very rewarding career for me. I am always looking
 to gain new clients and work with them toward their health and fitness 
 solutions. Contact me for information on how I can help you become successful!
 
-## Recommended Links
+# Recommended Links
 
-### Teaching
+## Teaching
 
 - [OCT](http://www.oct.ca/)
 - [OSSTF](http://www.osstf.on.ca/)
@@ -31,7 +31,7 @@ solutions. Contact me for information on how I can help you become successful!
 - [Create Your Own Crossword](http://www.armoredpenguin.com/crossword/)
 - [Khan Academy](http://www.khanacademy.org/)
 
-### Training
+## Training
 
 - [Canada's Food Guide](http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/index-eng.php)
 - [Dieticians of Canada](http://www.dietitians.ca/)
@@ -51,7 +51,7 @@ solutions. Contact me for information on how I can help you become successful!
 - [BodyRock](http://www.bodyrock.tv/)
 - [Precision Nutrition](http://www.precisionnutrition.com/)
 
-## This Website
+# This Website
 
 This website reflects my personal thoughts on teaching, fitness, and health. 
 The views and opinions herein represent my own and not those of people, 

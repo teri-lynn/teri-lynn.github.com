@@ -3,7 +3,7 @@ layout: page
 permalink: /testimonials/
 ---
 
-## Testimonials
+# Testimonials
 
 *Jenn says...*
 
