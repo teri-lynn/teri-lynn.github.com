@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <article>
   <header>
     <h1>{{ page.title }}</h1>
@@ -15,3 +24,8 @@ layout: default
   </header>
   {{ content }}
 </article>
+
+<section>
+  <h1>Comments</h1>
+  <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-num-posts="10" data-width="740"></div>
+</section>
