@@ -2,6 +2,7 @@ markdown: redcarpet
 permalink: /:year/:month/:day/:title/
 
 exclude:
+  - 404.html
   - mkpost.bat
   - mkpost.rb
   - CNAME
