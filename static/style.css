@@ -14,6 +14,10 @@ html {
   overflow-y: scroll;
 }
 
+p, li {
+  line-height: 1.5;
+}
+
 a {
   color: #FF0099;
   text-decoration: none;
