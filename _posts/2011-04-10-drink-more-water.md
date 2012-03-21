@@ -19,13 +19,15 @@ tags:
 
 ## Calculating Your Water Needs
 
-Imperial System
-:   Divide your weight in pounds by 2. The result is the number of ounces of 
-    water you need each day.
+### Imperial System
 
-Metric System
-:   Divide your weight in kilograms by 30. The result is the number of litres 
-    of water you need each day.
+Divide your weight in pounds by 2. The result is the number of ounces of water 
+you need each day.
+
+### Metric System
+
+Divide your weight in kilograms by 30. The result is the number of litres of 
+water you need each day.
 
 *Note: You will need more water in hotter weather and with exercise.*
 
