@@ -20,7 +20,7 @@ layout: nil
     <content type="html">{{ post.content | xml_escape }}</content>
     <author>
       <name>{{ site.author }}</name>
-      <uri>{{ site.url }}/about</uri>
+      <uri>{{ site.url }}/about/</uri>
     </author>
   </entry>
 {% endfor %}
