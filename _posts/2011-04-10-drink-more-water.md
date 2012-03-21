@@ -6,7 +6,7 @@ tags:
   - nutrition
 ---
 
-### Health Benefits of Drinking Enough Water:
+## Health Benefits of Drinking Enough Water
 
 - Prevents dehydration
 - Cleans toxins from the body
@@ -17,7 +17,7 @@ tags:
 - Lubricates muscles and joints
 - Regulates metabolism
 
-### Calculating Your Water Needs:
+## Calculating Your Water Needs
 
 Imperial System
 :   Divide your weight in pounds by 2. The result is the number of ounces of 
@@ -27,9 +27,9 @@ Metric System
 :   Divide your weight in kilograms by 30. The result is the number of litres 
     of water you need each day.
 
-* *You will need more water in hotter weather and with exercise.*
+*Note: You will need more water in hotter weather and with exercise.*
 
-### Tips for Drinking More Water:
+## Tips for Drinking More Water
 
 - Carry a water bottle with you throughout the day
 - Keep water next to you when you are at work or sitting down for long periods 
