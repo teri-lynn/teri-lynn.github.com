@@ -17,7 +17,7 @@ and what to eat there.
 ## Scary Facts
 
 - There are about 1000 calories and 60 grams of fat in both 
-  [The Keg]((http://www.kegsteakhouse.com/en/nutritional-charts/starters-soup/))'s 
+  [The Keg](http://www.kegsteakhouse.com/en/nutritional-charts/starters-soup/)'s 
   garlic bread and bruchetta. The Keg's fries have less fat in them than their 
   roasted garlic mashed potatoes.
 - [East Side Mario](http://www.eastsidemarios.com/pdfs/EastSideMariosNutritionGuide.pdf)'s 
