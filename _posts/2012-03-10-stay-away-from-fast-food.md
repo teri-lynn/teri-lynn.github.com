@@ -14,46 +14,21 @@ If you are going to eat out, it's a good idea to familiarize yourself with the
 items on the menus to make better informed decisions when deciding where to go 
 and what to eat there. 
 
-### Scary Facts
+## Scary Facts
 
-#### The Keg
-
-There are about 1000 calories and 60 grams of fat in both The Keg's garlic 
-bread and bruchetta. The Keg's fries have less fat in them than their roasted 
-garlic mashed potatoes.
-
-[Nutritional Information](http://www.kegsteakhouse.com/en/nutritional-charts/starters-soup/)
-
-#### East Side Mario's
-
-East Side Mario's chicken garden salad has 26 grams of fat and their caesar 
-salads have around 50 grams of fat.
-
-[Nutritional Information](http://www.eastsidemarios.com/pdfs/EastSideMariosNutritionGuide.pdf)
-
-#### Tim Horton's
-
-Tim Horton's muffins have more calories and fat than their donuts.
-
-[Nutritional Information](http://www.timhortons.com/ca/pdf/nutrition-guide-can.pdf)
-
-#### Starbucks
-
-A grande vanilla latte from Starbucks has 250 calories. Their frappuccinos have 
-around 400 calories.
-
-[Nutritional Information](http://www.starbucks.com/menu)
-
-#### Subway
-
-One Subway footlong can easily add up to 1000 calories and 50 grams of fat 
-depending on the bread you choose, the meat, and the sauces. I recommend just 
-sticking to their 6g of fat or less section.
-
-[Nutritional Information](http://www.subway.com/nutrition/nutritionlist.ASPX?COUNTRYCODE=CAN&LANGUAGECODE=ENG&id=sandwich)
-
-#### Kelsey's
-
-Kelsey's baked four cheese tortellini has 84 grams of fat.
-
-[Nutritional Information](http://www.kelseys.ca/nutrition.php)
+- There are about 1000 calories and 60 grams of fat in both 
+  [The Keg]((http://www.kegsteakhouse.com/en/nutritional-charts/starters-soup/))'s 
+  garlic bread and bruchetta. The Keg's fries have less fat in them than their 
+  roasted garlic mashed potatoes.
+- [East Side Mario](http://www.eastsidemarios.com/pdfs/EastSideMariosNutritionGuide.pdf)'s 
+  chicken garden salad has 26 grams of fat and their caesar 
+  salads have around 50 grams of fat.
+- [Tim Horton](http://www.timhortons.com/ca/pdf/nutrition-guide-can.pdf)'s muffins have more calories and fat than their donuts.
+- A grande vanilla latte from [Starbucks](http://www.starbucks.com/menu) has
+  250 calories. Their frappuccinos have around 400 calories.
+- One [Subway](http://www.subway.com/nutrition/nutritionlist.ASPX?COUNTRYCODE=CAN&LANGUAGECODE=ENG&id=sandwich) 
+  footlong can easily add up to 1000 calories and 50 grams of fat depending on 
+  the bread you choose, the meat, and the sauces. I recommend just sticking to 
+  their 6g of fat or less section.
+- [Kelsey](http://www.kelseys.ca/nutrition.php)'s baked four cheese tortellini 
+  has 84 grams of fat.
