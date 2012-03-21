@@ -4,6 +4,7 @@ permalink: /:year/:month/:day/:title/
 exclude:
   - mkpost.bat
   - mkpost.rb
+  - CNAME
   - LICENSE
   - README
 
