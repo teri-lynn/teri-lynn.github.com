@@ -5,7 +5,7 @@ permalink: /testimonials/
 
 # Testimonials
 
-*Jenn says...*
+*Jenn W says...*
 
 > Teri-Lynn was an informative and fun personal trainer. Not only did she show 
 me how to do the exercises, she motivated me and helped me understand why I was 
@@ -13,7 +13,7 @@ doing each exercise. I learned a ton from Teri-Lynn and anyone who trains with
 her will agree she knows her stuff!
 
 
-*Maureen says...*
+*Maureen B says...*
 
 > I started training with Teri-Lynn in November 2010 when I was 17 years old 
 with my main goals of losing weight and learning the proper way to work out. It 
@@ -32,7 +32,7 @@ where I am now without everything she's done for me and I know that we will
 have a lifetime of friendship.
 
 
-*Sue says...*
+*Sue W says...*
 
 > I have been very happy to have Teri-Lynn as my personal trainer. I do not 
 always look forward to going to the gym, but after my workout with her I do 
@@ -43,7 +43,7 @@ my Dr. thought I might need surgery, but since working out with Teri-Lynn my
 knee has improved and I do not have need of surgery. Thanks Teri-Lynn!
 
 
-*Joan says...*
+*Joan C says...*
 
 > I've trained with Teri-Lynn on a few occasions. I found her to be 
 professional in every way. She is motivating and encouraging yet always pushes 
@@ -51,7 +51,7 @@ you to perform at your optimal level for best results. She is friendly and
 approachable and I can't wait until my next opportunity to work with her.
 
 
-*Behnaz says...*
+*Behnaz M says...*
 
 > I really enjoyed training with Teri-Lynn, because she was very motivating and 
 she challenged me to push myself to the next level. She even did the workouts 
@@ -60,7 +60,7 @@ built muscle, lost 11 pounds (from 140 lb to 129 lb) and dropped 2 dress sizes
 within 6 months! Thanks Teri-Lynn for all your help and support!
 
 
-*Barb says...*
+*Barb S says...*
 
 > I had an amazing experience with Teri-Lynn, and would highly recommend her as 
 a trainer. Her best attribute was her ability to listen to my needs, and then 
@@ -71,7 +71,7 @@ answer. She is also an extremely nice, genuine and sincere individual - it was
 actually fun going to Personal Training with her.
 
 
-*Maureen says...*
+*Maureen J says...*
 
 > I have trained with Teri-Lynn with another small group of women for about 
 2 years now. Teri-Lynn is always making the workouts challenging yet fun and I 
@@ -82,7 +82,7 @@ when I am not training with Teri-Lynn now she is always there with some advice
 or motivation if needed. Thank you Teri-Lynn.
 
 
-*Barbara says...*
+*Barbara B says...*
 
 > I took a group session for a year with Teri-Lynn. The group consisted of 5 
 women whose ages ranged from early 40's to late sixties. It was wonderful how 
@@ -93,7 +93,7 @@ various exercises to specific parts of the body. She certainly pushed me to a
 level of fitness that I would not have been able to achieve otherwise.
 
 
-*Barbara says...*
+*Barbara V says...*
 
 > I participated in two programs that Teri-Lynn ran - Learn to Run and Circuit 
 Training. As a trainer, Teri-Lynn is very knowledgeable and passionate about 
