@@ -27,6 +27,12 @@ layout: nil
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>{{ site.url }}/links/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 {% comment %}
   <url>
     <loc>{{ site.url }}/contact/</loc>

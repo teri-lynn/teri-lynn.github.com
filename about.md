@@ -3,55 +3,40 @@ layout: page
 permalink: /about/
 ---
 
-# Teaching
+# About
 
-I graduated from Brock University with a Bachelor of Physical Education 
-(Honours) and a Bachelor of Education. I am qualified to teach Health and 
-Physical Education and Geography at the Intermediate and Senior levels. 
-While at Brock I also competed on the cross country team.
+## Biography
 
-# Training
+I achieved bachelor degrees in Physical Education (Honours) and Education upon 
+completion of the Concurrent Physical Education program at Brock University in 
+June, 2010, classifying me as an Ontario Certified Teacher. I competed as a 
+varsity cross country athlete at Brock while also participating in figure 
+skating, soccer, golf, skiing, hockey, tennis, and rollerblading.
 
-I am currently working at the Aurora Women's GoodLife as a Level 2 Personal 
-Training Specialist. Sports and fitness have always been my passion, so helping 
-people reach their goals is a very rewarding career for me. I am always looking 
-to gain new clients and work with them toward their health and fitness 
-solutions. Contact me for information on how I can help you become successful!
+I have been a Personal Training Specialist and GoodLife Personal Trainer since 
+August, 2010. Since then, I have trained women varying in age, goals, and 
+experience. I have helped my clients overcome injuries and health issues, as 
+well as reach their fitness goals. I have conducted a variety of group training 
+programs.
 
-# Recommended Links
+I continue to grow as a trainer by researching, taking courses, and adding to 
+my certifications so that I can offer the best possible experience. Sports and 
+fitness have always been my passion, and I love to teach and motivate others. 
+My hope is to pass on my success, enthusiasm, positive attitude, and love for 
+fitness to my clients, and be a part of their success!
 
-## Teaching
+## Qualifications
 
-- [OCT](http://www.oct.ca/)
-- [OSSTF](http://www.osstf.on.ca/)
-- [Ontario Ministry of Education](http://www.edu.gov.on.ca/eng/teachers/)
-- [Apply to Education](http://www.applytoeducation.com/AttLogin.aspx?ReturnUrl=%2fApplicant%2fAttStart.aspx)
-- [Ontario School Boards](http://www.osstf.on.ca/Default.aspx?DN=47253154-6432-4bfe-ac42-baefd828ae34)
-- [Ophea](http://www.ophea.net/)
-- [Create Your Own Crossword](http://www.armoredpenguin.com/crossword/)
-- [Khan Academy](http://www.khanacademy.org/)
+- Personal Training Specialist (PTS)
+- Ontario Certified Teacher (OCT)
+- Bachelor of Physical Education (Honours)
+- Bachelor of Education
+- Special Education Part One
+- CPR C Certified
+- Darby Training Systems - Program Design
+- Darby Training Systems – Assessment and Exercise 
 
-## Training
-
-- [Canada's Food Guide](http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/index-eng.php)
-- [Dieticians of Canada](http://www.dietitians.ca/)
-- [Health Canada](http://www.hc-sc.gc.ca/)
-- [Running Room](http://www.runningroom.com/)
-- [PTontheNET](http://www.ptonthenet.com/)
-- [canfitpro](http://www.canfitpro.com/)
-- [Livestrong](http://www.livestrong.com/)
-- [ExRx](http://www.exrx.net/)
-- [T-Nation](http://www.t-nation.com/)
-- [Calorie Count](http://caloriecount.about.com/)
-- [Human Kinetics](http://www.humankinetics.com/)
-- [Environmental Working Group](http://ewg.org/)
-- [Twist Sport Conditioning](http://www.twistconditioning.com/)
-- [Poliquin](http://www.charlespoliquin.com/)
-- [C.H.E.Q Institute](http://www.chekinstitute.com/)
-- [BodyRock](http://www.bodyrock.tv/)
-- [Precision Nutrition](http://www.precisionnutrition.com/)
-
-# This Website
+## This Website
 
 This website reflects my personal thoughts on teaching, fitness, and health. 
 The views and opinions herein represent my own and not those of people, 
