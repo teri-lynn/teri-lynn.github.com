@@ -100,3 +100,14 @@ Training. As a trainer, Teri-Lynn is very knowledgeable and passionate about
 fitness. When she was training me, she was very supportive and gave the right 
 amount of encouragement so I would not give up. I enjoyed the time I spent with 
 Teri-Lynn and have continued using the techniques/exercises she had taught me.
+
+
+*Karen W says...*
+
+> Teri-Lynn is a fantastic, motivational personal trainer! She has excellent 
+experience and a variety of interests in areas such as exercise, nutrition, 
+and life skills. She has developed a personalized program specific to my needs, 
+age, and activity level. I’ve increased my stamina and muscle tone and have 
+been given great support with nutrition. I also enjoy that Teri-Lynn changes 
+the training program on a regular basis to keep things interesting. Life has 
+changed in a positive way since training with Teri-Lynn.
