@@ -5,7 +5,7 @@ permalink: /about/
 
 # Teaching
 
-I graduated from Brock University with a Bachelors of Physical Education 
+I graduated from Brock University with a Bachelor of Physical Education 
 (Honours) and a Bachelor of Education. I am qualified to teach Health and 
 Physical Education and Geography at the Intermediate and Senior levels. 
 While at Brock I also competed on the cross country team.
