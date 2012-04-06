@@ -126,7 +126,7 @@ changed in a positive way since training with Teri-Lynn.
  *Angela B says...*
 
  > I had wonderful experience training with Teri-Lynn in a group setting. With 
- her guidance and friendly personality, we were able to mesh perfectly as a group.  
+ her guidance and friendly personality, we were able to mesh perfectly as a group. 
  Through her motivation I was able to achieve my goal. Teri-Lynn offers experience, 
  education and professionalism – she was always able to keep us on track and push 
  us to our unique potential. Teri-Lynn has passed on her passion for fitness to me 
