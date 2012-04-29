@@ -34,8 +34,9 @@ heal. Once you have determined your type of injury, use these guidelines:
   - Moist heat is the most effective (such as an Epson salt bath, a hot towel, 
     or a special heating pad)
 
-For more tips, check out these links: 
-[Heat or Ice for Sports Injury](http://sportsmedicine.about.com/cs/rehab/a/heatorcold.htm)
-[Ice or Heat](http://www.prevention.com/fitness/fitness-tips/ice-or-heat)
-[Ice or Heat? "Which Should I Apply?"](http://www.medicinenet.com/script/main/art.asp?articlekey=18347)
-[Do You Put Ice or Heat on a Hurt Back from Lifting Weights?](http://www.livestrong.com/article/382089-do-you-put-ice-or-heat-on-a-hurt-back-from-lifting-weights/)
+For more tips, check out these links:
+
+- [Heat or Ice for Sports Injury](http://sportsmedicine.about.com/cs/rehab/a/heatorcold.htm)
+- [Ice or Heat](http://www.prevention.com/fitness/fitness-tips/ice-or-heat)
+- [Ice or Heat? "Which Should I Apply?"](http://www.medicinenet.com/script/main/art.asp?articlekey=18347)
+- [Do You Put Ice or Heat on a Hurt Back from Lifting Weights?](http://www.livestrong.com/article/382089-do-you-put-ice-or-heat-on-a-hurt-back-from-lifting-weights/)
