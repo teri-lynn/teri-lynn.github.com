@@ -25,7 +25,7 @@ Too much sugar increases the risk of:
 
 See these great articles for more information:
 
-[Ten Negative Effects of Sugar on Your Health](http://www.healthgolb.com/health/10-negative-effects-of-sugar-on-your-health/)
-[Negative Effects of Glucose](http://www.livestrong.com/article/234494-negative-effects-of-glucose/)
-[6 Surprising Sources of Sugar](http://www.eatingwell.com/blogs/health_blog/6_surprising_sources_of_sugar)
-[8 Surprising Sources of Sugar](http://blog.foodnetwork.com/healthyeats/2012/02/29/8-surprising-sources-of-sugar/)
+- [Ten Negative Effects of Sugar on Your Health](http://www.healthgolb.com/health/10-negative-effects-of-sugar-on-your-health/)
+- [Negative Effects of Glucose](http://www.livestrong.com/article/234494-negative-effects-of-glucose/)
+- [6 Surprising Sources of Sugar](http://www.eatingwell.com/blogs/health_blog/6_surprising_sources_of_sugar)
+- [8 Surprising Sources of Sugar](http://blog.foodnetwork.com/healthyeats/2012/02/29/8-surprising-sources-of-sugar/)
