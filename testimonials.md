@@ -132,3 +132,16 @@ education and professionalism – she was always able to keep us on track and pu
 us to our unique potential. Teri-Lynn has passed on her passion for fitness to me 
 which gives me the enthusiasm needed to maintain my goal by attending the gym 
 regularly with the same group. Thank you Teri-Lynn.
+
+
+*Nancy L says...*
+
+> I have trained with Teri-Lynn in a small group of women on a couple of occasions.
+Teri-Lynn is always challenging you to do better which is great because you usually 
+want to give up. She pushes you to your limit which in the end, the results are 
+great. You always feel great after one of Teri-Lynn's workouts. She is very positive, 
+friendly and professional. Teri-Lynn is always making the workouts challenging yet fun.   
+When we were finished with our classes Teri-Lynn helped me put together some workouts 
+for the ladies and myself. She is always ready to answer any question or give you advice.
+Thanks Teri-Lynn for all your help and support. 
+
