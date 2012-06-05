@@ -145,3 +145,10 @@ When we were finished with our classes Teri-Lynn helped me put together some wor
 for the ladies and myself. She is always ready to answer any question or give you advice.
 Thanks Teri-Lynn for all your help and support. 
 
+
+*Agnes N says...*
+
+> Teri-Lynn is an enthusiastic and knowledgeable personal trainer. She made it fun and 
+always knew how to challenge me to get that extra effort. She is very knowledgeable about 
+a variety of topics including nutrition and if she doesn’t know the answer to a question 
+always follows up. A great motivator!
