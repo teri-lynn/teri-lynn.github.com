@@ -33,8 +33,7 @@ fitness to my clients, and be a part of their success!
 - Bachelor of Education
 - Special Education Part One
 - CPR C Certified
-- Darby Training Systems - Program Design
-- Darby Training Systems - Assessment and Exercise 
+- Darby Training Systems - Level One Certification  
 
 ## This Website
 
