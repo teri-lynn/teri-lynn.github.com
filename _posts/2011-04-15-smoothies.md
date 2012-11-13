@@ -20,6 +20,7 @@ isolate powder can be helpful. Keeping frozen banana chunks on hand also works g
 Try different combinations to find what you like, and to mix it up! 
 
 Here's what to throw in the blender:
+
 - Spinach
 - Plain Greek yogurt
 - Ground flax seed
