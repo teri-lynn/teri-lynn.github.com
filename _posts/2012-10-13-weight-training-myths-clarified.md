@@ -1,5 +1,6 @@
 ---
-Weight Training Myths Clarified
+layout: Post
+title: Weight Training Myths Clarified
 ---
 
 ## Myth #1: "Lifting heavy weights will cause too much bulk."*
