@@ -15,7 +15,8 @@ General Tips:
 eccentric phase
 - Increase the intensity in some way each time you workout (decrease rest, increase reps/sets, etc)
 - Write everything down
-- Go to full intensity -do the maximum amount of reps you can with proper form
+- Go to full intensity 
+- do the maximum amount of reps you can with proper form
 
 ## Deadlifts
 - Common errors:
@@ -34,7 +35,7 @@ eccentric phase
 	- Raising shoulders up as you row
 	- Locking the elbows
 - Corrections:
-	-Before beginning the row, make sure you have proper posture (eyes forward,
+	- Before beginning the row, make sure you have proper posture (eyes forward,
 	shoulders back, sitting up tall)
 	- Squeeze your shoulder blades together as you row back
 	- When your arms go forward again, keep your shoulders back, and
