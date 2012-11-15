@@ -10,13 +10,12 @@ too much weight than what they can handle with proper form.
 
 General Tips:
 - Control the movement -do not swing the weights, or arch your back
-- Keep proper posture for every exercise (back tall, shoulders back)
-- Ensure that you breathe out on the concentric phase of the exercise, and breathe in on the 
-eccentric phase
-- Increase the intensity in some way each time you workout (decrease rest, increase reps/sets, etc)
+- Keep propoer posture for every exercise (back tall, shoulders back)
+- Ensure that you breathe out on the concentric phase of the exercise, and
+breathe in on the eccentric phase
+- Increase the intensity in some way eahc time you workout (decrease rest, increase reps/sets, etc.)
 - Write everything down
-- Go to full intensity 
-- do the maximum amount of reps you can with proper form
+- Go to full intensity -do the maximum amount of reps you can with proper form
 
 ## Deadlifts
 - Common errors:
