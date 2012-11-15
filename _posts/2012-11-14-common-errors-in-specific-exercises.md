@@ -8,7 +8,7 @@ increases and the effectiveness of the workout goes down. Form is extremely
 important for results as well as safety. Commonly, people try to lift far 
 too much weight than what they can handle with proper form.
 
-General Tips:
+## General Tips:
 - Control the movement -do not swing the weights, or arch your back
 - Keep propoer posture for every exercise (back tall, shoulders back)
 - Ensure that you breathe out on the concentric phase of the exercise, and
