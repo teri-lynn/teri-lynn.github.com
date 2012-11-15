@@ -21,7 +21,7 @@ eccentric phase
 - Common errors:
 	- Rounding the back and shoulders
 	- Dropping the head too low
-Corrections:
+- Corrections:
 	- Keep your back flat -stick out your butt as you lower the weights, 
 	and bring your hips forward as you come back up
 	- Keep your shoulders back, do not let them round forward
