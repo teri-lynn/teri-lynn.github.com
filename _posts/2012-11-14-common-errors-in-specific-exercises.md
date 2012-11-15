@@ -17,17 +17,17 @@ eccentric phase
 - Write everything down
 - Go to full intensity -do the maximum amount of reps you can with proper form
 
-1. Deadlifts
+## Deadlifts
 - Common errors:
 	- Rounding the back and shoulders
 	- Dropping the head too low
-- Corrections:
+Corrections:
 	- Keep your back flat -stick out your butt as you lower the weights, 
 	and bring your hips forward as you come back up
 	- Keep your shoulders back, do not let them round forward
 	- Keep your head in line with your spine
 
-2. Rows
+## Rows
 - Common errors:
 	- Letting your arms do all the work
 	- Rounding the shoulders forward
@@ -40,7 +40,7 @@ eccentric phase
 	- When your arms go forward again, keep your shoulders back, and
 	keep a slight bend in your elbows
 	
-3. Biceps Curls
+## Biceps Curls
 - Common errors:
 	- Swinging the arms and arching the back
 	- Not going through the full range of motion
@@ -48,7 +48,7 @@ eccentric phase
 	- Keep the weights controlled, flex your abs instead of arching your back
 	- If you cannot go through the full range of motion, choose a lighter weight 
 
-4. Shoulder Press
+## Shoulder Press
 - Common errors:
 	- Pushing the weights forward to much when pushing up
 	- Arching the back
@@ -57,7 +57,7 @@ eccentric phase
 	(when they are forward, it becomes more of a chest exercise)
 	- Flex your abs instead of arching your back
 
-5. Squats
+## Squats
 - Common errors:
 	- Knees coming too far forward over the toes
 	- Knees going outward or inward
@@ -68,7 +68,8 @@ eccentric phase
 	- Keep your knees lined up with your feet, not inward or outward
 	- Keep your shoulders back and chest up
 	- Do not arch forward with your back 
-6. Lat Pulldown
+
+## Lat Pulldown
 - Common errors:
 	- Yanking the bar down
 	- Rounding the back when bringing the bar back up
@@ -77,14 +78,16 @@ eccentric phase
 	- The bar should be controlled as you bring it down; keep your back stable
 	- As you bring the bar back up, keep your shoulders back, and do not round your back
 	- Bring the bar down in front of your head, right down to your chest as you squeeze your back
-7. Bench Press
+
+## Bench Press
 - Common errors:
 	- Not enough of a support base
 	- Brining the bar down in the wrong spot
 - Corrections:
 	- Squeeze your shoulder blades together, keep your heels firm on the ground
 	- The bar should be lined up with your chest, not in front or behind
-8. Plank
+
+## Plank
 - Common errors:
 	- Sagging of the lower back
 	- Dropping of the upper back
