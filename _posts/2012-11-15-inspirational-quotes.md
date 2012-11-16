@@ -10,8 +10,8 @@ title: Get Inspired
 - The secret of getting ahead is getting started. *-Mark Twain*
 - No act of kindness, however small, is ever wasted. *-Aesop*
 - Love is playing every game as if it's your last. *-Michael Jordan*
-- "The principle is competing against yourself. It's about self-improvement,
-about being better than the day before." *-Steve Young*
+- The principle is competing against yourself. It's about self-improvement,
+about being better than the day before. *-Steve Young*
 - Attitude is a little thing that makes a big difference. *-Winston Churchill*
 - Do right. Do your best. Treat others as you want to be treated. *-Lou Holtz*
 - Never settle for anything less than your best. *-Brian Tracy*
