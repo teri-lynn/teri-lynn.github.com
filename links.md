@@ -18,14 +18,14 @@ permalink: /links/
 
 ## Training
 
-### Nutrition
+#### Nutrition
 - [Canada's Food Guide](http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/index-eng.php)
 - [Dieticians of Canada](http://www.dietitians.ca/)
 - [Health Canada](http://www.hc-sc.gc.ca/)
 - [Precision Nutrition](http://www.precisionnutrition.com/)
 - [Still Tasty] (http://www.stilltasty.com/)
 
-### Fitness
+#### Fitness
 - [Running Room](http://www.runningroom.com/)
 - [PTontheNET](http://www.ptonthenet.com/)
 - [canfitpro](http://www.canfitpro.com/)
