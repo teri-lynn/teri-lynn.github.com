@@ -47,37 +47,54 @@ your minimums with certain  essential nutrients. Remember, try to get as much of
 possible from whole foods first. Supplements do not offer the beneficial phytochemicals that whole 
 foods do. Here are some essential nutrient supplements that can be used regularly or occasionally.
 
-- Protein Supplement
-  - Can be a milk, egg, rice, or plant-based protein blend
-  - Make sure it is an isolate 
-  - Frequency of use will depend on how often you fall short with your whole-food protein 
-  - Food equivalents: dense protein foods such as meat, dairy, eggs, legumes, beans, quinoa, etc. 
-- Fish Oil Supplement
-  - Ensure it has high omega-3 and at least 30% EPA and DHA
-  - Can use algae instead if preferred 
-  - 2-3g each day for fish oil, 1g each day for algae 
-  - Helpful since fish contain environmental pollutants and therefore should only be eaten occasionally
-  - Food equivalents: fatty fish such as salmon, anchovy, sardine
-- Greens Supplement
-  - Ensure the blend is high in antioxidants, strongly alkaline, and vitamin/mineral rich
-  - Use will be infrequent if you have a high vegetable and fruit intake per day (10 servings)
-  - Helpful when travelling and fruit and vegetable intake is lower than optimal
-  - Food equivalents: vegetables and fruits
-- Multivitamin/Multimineral
-  - A varied diet is key in attaining all the necessary vitamins and minerals needed for optimal health and functioning
-  - Can be taken every day or on days where dietary intake is poor
-  - Food equivalents: a varied diet 
-- Protein-Carbohydrate Drink
-  - Quickly digested and well-tolerated mixture of carbohydrates and protein in a 2:1 or 3:1 ratio of carbs: protein
-  - Useful during high-intensity exercise when the goal is to increase muscle size and strength and increase athletic performance
-  - Only use during workouts
-  - Not useful for people with an endomorph body-type
-  - Food equivalent: any high protein and high carbohydrate food
-- Branched-Chain Amino Acids
-  - Should contain BCAAs leucine, isoleucine, and valine
-  - Useful for high-intensity exercise where fat loss and muscle/performance preservation is the goal
-  - Only use during workouts
-  - Food equivalent: any protein-rich food
+Protein Supplement
+------------------
+
+- Can be a milk, egg, rice, or plant-based protein blend
+- Make sure it is an isolate 
+- Frequency of use will depend on how often you fall short with your whole-food protein 
+- Food equivalents: dense protein foods such as meat, dairy, eggs, legumes, beans, quinoa, etc.
+
+Fish Oil Supplement
+-------------------
+
+- Ensure it has high omega-3 and at least 30% EPA and DHA
+- Can use algae instead if preferred 
+- 2-3g each day for fish oil, 1g each day for algae 
+- Helpful since fish contain environmental pollutants and therefore should only be eaten occasionally
+- Food equivalents: fatty fish such as salmon, anchovy, sardine
+
+Greens Supplement
+-----------------
+
+- Ensure the blend is high in antioxidants, strongly alkaline, and vitamin/mineral rich
+- Use will be infrequent if you have a high vegetable and fruit intake per day (10 servings)
+- Helpful when travelling and fruit and vegetable intake is lower than optimal
+- Food equivalents: vegetables and fruits
+
+Multivitamin/Multimineral
+-------------------------
+
+- A varied diet is key in attaining all the necessary vitamins and minerals needed for optimal health and functioning
+- Can be taken every day or on days where dietary intake is poor
+- Food equivalents: a varied diet
+
+Protein-Carbohydrate Drink
+--------------------------
+
+- Quickly digested and well-tolerated mixture of carbohydrates and protein in a 2:1 or 3:1 ratio of carbs: protein
+- Useful during high-intensity exercise when the goal is to increase muscle size and strength and increase athletic performance
+- Only use during workouts
+- Not useful for people with an endomorph body-type
+- Food equivalent: any high protein and high carbohydrate food
+
+Branched-Chain Amino Acids
+--------------------------
+
+- Should contain BCAAs leucine, isoleucine, and valine
+- Useful for high-intensity exercise where fat loss and muscle/performance preservation is the goal
+- Only use during workouts
+- Food equivalent: any protein-rich food
 
 Supplementing with non-essential nutrients may be helpful for certain athletes in certain situations. 
 They are not likely to make a huge difference for recreational exercisers. First ensure that your 
