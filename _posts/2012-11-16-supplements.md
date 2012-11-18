@@ -92,8 +92,3 @@ Supplementing with non-essential nutrients may be helpful for certain athletes i
 
 	- CLA
 		- Stimulates metabolism, induce apoptosis (death) of fat cells, and down-regulate leptin during weight loss phases
-
-
-
-
-
