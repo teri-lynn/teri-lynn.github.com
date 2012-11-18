@@ -70,7 +70,7 @@ As discussed, supplementing can be done on a part time basis for days where you 
 Supplementing with non-essential nutrients may be helpful for certain athletes in certain situations. They are not likely to make a huge difference for recreational exercisers. First ensure that your nutrition and exercise program is well designed and you are following them consistently. Next, make sure you understand the physiological system that you are targeting through supplementation. Most importantly, do your research on whether or not it will be beneficial to what you are working to achieve, and whether or not it is safe. Here is a list of some supplements that could be useful for specific situations. 
 	
 	- r-Alpha lioic acid
-		- Improves insulin sensitivity and reduce insulin response to meals in athletes with poor carb tolerance and fat loss goals
+		- Improves insulin sensitivity and reduces insulin response to meals in athletes with poor carb tolerance and fat loss goals
 
 	- Tyrosine and Phosphatidylcholine
 		- Helps reduce central nervous system fatigue
@@ -91,4 +91,4 @@ Supplementing with non-essential nutrients may be helpful for certain athletes i
 		- Stimulates metabolism during weight loss phases
 
 	- CLA
-		- Stimulates metabolism, induce apoptosis (death) of fat cells, and down-regulate leptin during weight loss phases
+		- Stimulates metabolism, induces apoptosis (death) of fat cells, and down-regulate leptin during weight loss phases
