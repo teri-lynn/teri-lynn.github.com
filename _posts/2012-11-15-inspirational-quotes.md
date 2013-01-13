@@ -3,6 +3,8 @@ layout: post
 title: Get Inspired 
 ---
 
+![Go Hard or Go Home](/images/go_hard_or_go_home.jpg)
+
 - Go hard or go home. *-Unknown*
 - There are no shortcuts to any place worth going. *-Beverly Sills*
 - You miss 100% of the shots you don't take. *-Wayne Gretzky*
