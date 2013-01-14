@@ -5,6 +5,8 @@ permalink: /about/
 
 # About
 
+ ![Teri-Lynn Nelson](/images/standing_on_SB.jpg)
+
 ## Biography
 
 I achieved bachelor degrees in Physical Education (Honours) and Education upon 
