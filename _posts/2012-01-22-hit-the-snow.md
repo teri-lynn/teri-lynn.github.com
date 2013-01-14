@@ -12,6 +12,8 @@ tags:
   - winter
 ---
 
+![Skiing at Whistler](/images/whistler_skiing.jpg)
+
 Winter is a time where many people shy away from outdoor exercise because they 
 are afraid of the snow and cold. This can be why you end up putting on some 
 winter weight. Some people also start to get the winter blues due to inadequate 
