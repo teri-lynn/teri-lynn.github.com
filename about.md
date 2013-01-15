@@ -5,8 +5,10 @@ permalink: /about/
 
 # About
 
- ![Teri-Lynn Nelson](/images/standing_on_SB.jpg)
-
+<div id="photo">
+![Teri-Lynn Nelson](/images/standing_on_SB.jpg)
+</div>
+<div id="biography">
 ## Biography
 
 I achieved bachelor degrees in Physical Education (Honours) and Education upon 
@@ -30,6 +32,7 @@ I currently work as a Personal Trainer for
 [Precision Athletics](http://www.precisionathletics.ca/) in Vancouver, 
 British Columbia. Please see their website for more information on how you
 can train with me.
+</div>
 
 ## Qualifications
 
