@@ -99,9 +99,12 @@ a:hover {
 
 #biography {
   float: left;
+  width: 498px;
 }
 
 #photo {
   float: right;
+  margin-left: 20px;
+  width: 222px;
 }
  
