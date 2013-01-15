@@ -97,6 +97,11 @@ a:hover {
   text-align: center;
 }
 
+#biography {
+  float: left;
+}
+
 #photo {
   float: right;
 }
+ 
