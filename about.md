@@ -5,10 +5,10 @@ permalink: /about/
 
 # About
 
-<div class="clearfix">
-<div id="biography">
+## Biography
 
-<h2>Biography</h2>
+<div class=".clearfix">
+<div id="biography">
 
 <p>I achieved bachelor degrees in Physical Education (Honours) and Education upon 
 completion of the Concurrent Physical Education program at Brock University in 
