@@ -6,8 +6,7 @@ permalink: /about/
 # About
 
 ## Biography
-
-<div class=".clearfix">
+<div class="clearfix">
 <div id="biography">
 
 <p>I achieved bachelor degrees in Physical Education (Honours) and Education upon 
