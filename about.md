@@ -32,7 +32,7 @@ fitness to my clients, and be a part of their success!</p>
 <p>I currently work as a Personal Trainer for 
 [Precision Athletics](http://www.precisionathletics.ca/) in Vancouver, 
 British Columbia. Please see their website for more information on how you
-can train with me.<p>
+can train with me.</p>
 
 </div>
 
