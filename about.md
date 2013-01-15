@@ -5,7 +5,7 @@ permalink: /about/
 
 # About
 
-<div class="container">
+<div class="clearfix">
 <div id="biography">
 
 <h2>Biography</h2>

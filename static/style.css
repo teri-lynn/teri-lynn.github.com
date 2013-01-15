@@ -107,3 +107,15 @@ a:hover {
   margin-left: 20px;
   width: 222px;
 }
+
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+}
+.clearfix:after {
+  clear: both;
+}
