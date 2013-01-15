@@ -9,29 +9,31 @@ permalink: /about/
 ![Teri-Lynn Nelson](/images/standing_on_SB.jpg)
 </div>
 <div id="biography">
-## Biography
 
-I achieved bachelor degrees in Physical Education (Honours) and Education upon 
+<h2>Biography</h2>
+
+<p>I achieved bachelor degrees in Physical Education (Honours) and Education upon 
 completion of the Concurrent Physical Education program at Brock University in 
 June, 2010, classifying me as an Ontario Certified Teacher. I competed as a 
 varsity cross country athlete at Brock while also participating in figure 
-skating, soccer, golf, skiing, hockey, tennis, and rollerblading.
+skating, soccer, golf, skiing, hockey, tennis, and rollerblading.</p>
 
-I have been a Personal Training Specialist since August, 2010. Since then, 
+<p>I have been a Personal Training Specialist since August, 2010. Since then, 
 I have trained people varying in age, goals, and experience. I have helped 
 my clients overcome injuries and health issues, as well as reach their fitness 
-goals. I have conducted a variety of group training programs.
+goals. I have conducted a variety of group training programs.</p>
 
-I continue to grow as a trainer by researching, taking courses, and adding to 
+<p>I continue to grow as a trainer by researching, taking courses, and adding to 
 my certifications so that I can offer the best possible experience. Sports and 
 fitness have always been my passion, and I love to teach and motivate others. 
 My hope is to pass on my success, enthusiasm, positive attitude, and love for 
-fitness to my clients, and be a part of their success!
+fitness to my clients, and be a part of their success!</p>
 
-I currently work as a Personal Trainer for 
+<p>I currently work as a Personal Trainer for 
 [Precision Athletics](http://www.precisionathletics.ca/) in Vancouver, 
 British Columbia. Please see their website for more information on how you
-can train with me.
+can train with me.<p>
+
 </div>
 
 ## Qualifications
