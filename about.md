@@ -5,6 +5,7 @@ permalink: /about/
 
 # About
 
+<div class="container">
 <div id="biography">
 
 <h2>Biography</h2>
@@ -38,6 +39,7 @@ can train with me.</p>
     <img src="/images/standing_on_SB.jpg" alt="Teri-Lynn Nelson">
   </div>
 </aside>
+</div>
 
 ## Qualifications
 
