@@ -5,9 +5,6 @@ permalink: /about/
 
 # About
 
-<div id="photo">
-![Teri-Lynn Nelson](/images/standing_on_SB.jpg)
-</div>
 <div id="biography">
 
 <h2>Biography</h2>
@@ -30,11 +27,17 @@ My hope is to pass on my success, enthusiasm, positive attitude, and love for
 fitness to my clients, and be a part of their success!</p>
 
 <p>I currently work as a Personal Trainer for 
-[Precision Athletics](http://www.precisionathletics.ca/) in Vancouver, 
+<a href="http://www.precisionathletics.ca/">Precision Athletics</a> in Vancouver, 
 British Columbia. Please see their website for more information on how you
 can train with me.</p>
 
 </div>
+
+<aside>
+  <div id="photo">
+    <img src="/images/standing_on_SB.jpg" alt="Teri-Lynn Nelson">
+  </div>
+</aside>
 
 ## Qualifications
 
