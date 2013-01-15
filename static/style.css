@@ -103,8 +103,18 @@ a:hover {
 }
 
 #photo {
+  *zoom: 1;
   float: right;
   margin-left: 20px;
   width: 222px;
 }
- 
+
+/* clearfix */
+#photo:before,
+#photo:after {
+  display: table;
+  content: "";
+}
+#photo:after {
+  clear: both;
+}
