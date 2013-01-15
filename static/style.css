@@ -99,12 +99,14 @@ a:hover {
 
 #biography {
   float: left;
+  margin-top: -20px;
   width: 498px;
 }
 
 #photo {
   float: right;
   margin-left: 20px;
+  margin-top: -20px;
   width: 222px;
 }
 
