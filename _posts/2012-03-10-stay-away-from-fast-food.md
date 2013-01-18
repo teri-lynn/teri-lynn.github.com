@@ -5,6 +5,7 @@ tags:
   - calories
   - nutrition
 ---
+![Subway](/images/Subway.jpg)
 
 Take a look at the nutritional value charts (well, lack of nutritional value) 
 of popular restaurants and fast food chains, and you will be shocked. I always 
