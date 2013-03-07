@@ -6,8 +6,10 @@ tags:
   - nutrition
 ---
 
+![Smoothie](/images/smoothie.jpg)
+
 Smoothies can make an excellent snack or addition to a healthy meal! They are 
-easy and quick to make, and a great way to add to your fruit intake for the 
+easy and quick to make, and a great way to add to your fruit and vegetable intake for the 
 day. Just keep fruits stocked in your freezer and throw them in the blender 
 any time you want a tasty, refreshing smoothie. Then all you need to do is add 
 some Greek yogurt and some juice or milk, and you are set. Be creative; you can't 
