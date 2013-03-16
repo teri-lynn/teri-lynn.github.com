@@ -41,9 +41,10 @@ can train with me.</p>
 - Bachelor of Physical Education (Honours)
 - Bachelor of Education
 - Special Education Part One
-- CPR C Certification
+- CPR A Certification
 - Darby Training Systems - Level One Certification (DTS-1)
 - Precision Nutrition - Certified Level One Coach (Pn1)
+- Twist Sport Conditioning - Bronze Coach (TSCC-Bronze)
 
 ## This Website
 
