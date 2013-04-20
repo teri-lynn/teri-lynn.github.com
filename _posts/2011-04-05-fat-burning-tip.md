@@ -7,6 +7,7 @@ tags:
   - training
   - metabolism
 ---
+![Weights](/images/weights.jpg)
 
 Many people believe that in order to burn fat, they have to do tons of cardio. 
 The key to burning fat is actually strength training! The more muscle you have 
