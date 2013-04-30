@@ -24,8 +24,7 @@ My hope is to pass on my success, enthusiasm, positive attitude, and love for
 fitness to my clients, and be a part of their success!</p>
 <p>I currently work as a Personal Trainer for 
 <a href="http://www.precisionathletics.ca/">Precision Athletics</a> in Vancouver, 
-British Columbia. Please see their website for more information on how you
-can train with me.</p>
+British Columbia. I also offer personal training, group training, and nutrition coaching services through my own business. Contact me at mrs.nelson@teri-lynn.ca for more information on rates and services available.</p>
 </div>
 <aside>
   <div id="photo">
