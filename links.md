@@ -15,6 +15,7 @@ permalink: /links/
 - [Ophea](http://www.ophea.net/)
 - [Create Your Own Crossword](http://www.armoredpenguin.com/crossword/)
 - [Khan Academy](http://www.khanacademy.org/)
+- [TEACHERSpayTEACHERS](http://www.teacherspayteachers.com/)
 
 ## Training
 
@@ -22,7 +23,7 @@ permalink: /links/
 - [Dieticians of Canada](http://www.dietitians.ca/)
 - [Health Canada](http://www.hc-sc.gc.ca/)
 - [Precision Nutrition](http://www.precisionnutrition.com/)
-- [Still Tasty] (http://www.stilltasty.com/)
+- [Still Tasty](http://www.stilltasty.com/)
 - [Running Room](http://www.runningroom.com/)
 - [PTontheNET](http://www.ptonthenet.com/)
 - [canfitpro](http://www.canfitpro.com/)
@@ -36,4 +37,5 @@ permalink: /links/
 - [C.H.E.Q Institute](http://www.chekinstitute.com/)
 - [BodyRock](http://www.bodyrock.tv/)
 - [Darby Training Systems](http://darbytrainingsystems.com/)
-- [Workout Box] (http://www.workoutbox.com/)
+- [Workout Box](http://www.workoutbox.com/)
+- [7MIN](http://7-min.com/)
