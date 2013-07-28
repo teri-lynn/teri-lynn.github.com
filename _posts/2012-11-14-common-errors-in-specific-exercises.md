@@ -4,6 +4,7 @@ title: Common Form Errors in Specific Exercises
 ---
 
 ![Deadlift](/images/deadlift.jpg)
+
 When exercises are not done with proper form the risk of injury greatly
 increases and the effectiveness of the workout goes down. Form is extremely 
 important for results as well as safety. Commonly, people try to lift far 
