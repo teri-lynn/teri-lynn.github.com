@@ -7,6 +7,7 @@ tags:
   - back
   - chest
 ---
+
 ![Back Muscle](/images/posture.jpg)
 
 Almost everyone could use some improvement in their posture. Poor posture can arise from sitting for long periods at a desk, or working the chest too much 
@@ -33,63 +34,60 @@ Here are some general suggestions to help improve your posture:
 - Do rows, any type. To ensure you start off with proper form, first elevate, retract, and then depress your shoulders. 
 - Stretch your chest out. 
   
-  Contraindicated Exercises for Upper/Lower Crossed Syndrome (Do Not Do):
+Contraindicated Exercises for Upper/Lower Crossed Syndrome (Do Not Do):
   
-  - Overhead Pressing
-  - Bench Presses 
-  - Upright Rows 
-  - Shrugs 
-  - Loaded Squats (until you can squat without weights properly)
+- Overhead Pressing
+- Bench Presses 
+- Upright Rows 
+- Shrugs 
+- Loaded Squats (until you can squat without weights properly)
 
- Stretches/Mobilization for Upper Crossed Syndrome:
+Stretches/Mobilization for Upper Crossed Syndrome:
  
- - [Upper Trapezius Stretch](http://exrx.net/Stretches/TrapeziusUpper/Trap.html)
- - [Pectoralis Major Stretch](http://exrx.net/Stretches/ChestGeneral/Doorway.html)
- - [Pectoralis Minor Stretch](http://exrx.net/Stretches/PectoralisMinor/Doorway.html)
- - [Latissimus Dorsi Stretch](http://exrx.net/Stretches/LatissimusDorsi/Overhead.html)
- - [Levator Scapulae](http://hjd.med.nyu.edu/spine/sites/default/files/spine/n_stretch.jpg)
- - [Latissimus Dorsi Foam Rolling](http://www.performancefitness618.com/wp-content/uploads/2012/07/IMG_2517.jpg)
- - [Spine Foam Rolling](http://www.performancefitness618.com/wp-content/uploads/2012/07/IMG_2519.jpg)
- - [Chest Rolling with Ball](https://www.youtube.com/watch?v=2iM4e9opDbM)
- - [Shoulder Traction with Band](https://www.youtube.com/watch?v=RMW_q9-iipM#at=15)
+- [Upper Trapezius Stretch](http://exrx.net/Stretches/TrapeziusUpper/Trap.html)
+- [Pectoralis Major Stretch](http://exrx.net/Stretches/ChestGeneral/Doorway.html)
+- [Pectoralis Minor Stretch](http://exrx.net/Stretches/PectoralisMinor/Doorway.html)
+- [Latissimus Dorsi Stretch](http://exrx.net/Stretches/LatissimusDorsi/Overhead.html)
+- [Levator Scapulae](http://hjd.med.nyu.edu/spine/sites/default/files/spine/n_stretch.jpg)
+- [Latissimus Dorsi Foam Rolling](http://www.performancefitness618.com/wp-content/uploads/2012/07/IMG_2517.jpg)
+- [Spine Foam Rolling](http://www.performancefitness618.com/wp-content/uploads/2012/07/IMG_2519.jpg)
+- [Chest Rolling with Ball](https://www.youtube.com/watch?v=2iM4e9opDbM)
+- [Shoulder Traction with Band](https://www.youtube.com/watch?v=RMW_q9-iipM#at=15)
 
+Strengthening for Upper Crossed Syndrome:
  
- Strengthening for Upper Crossed Syndrome:
+- [Rows](https://www.youtube.com/watch?v=HJSVR_63eKM)
+- [Neck Retraction](http://exrx.net/Stretches/Sternocleidomastoid/NeckRetraction.html)
+- [Wall Arm Slide](http://www.exrx.net/Stretches/PectoralisMinor/Wall.html)
+- [Prone Y](https://www.youtube.com/watch?v=d3EHKNZ0ack)
+- [Bent Over Lateral Raise](http://exrx.net/WeightExercises/DeltoidPosterior/DBRearLateralRaise.html)
+- [Rotator Cuff Abduction](http://www.exrx.net/WeightExercises/Infraspinatus/DBLyingExternalRotation.html)
+
+Stretches/Mobilization for Lower Crossed Syndrome:
  
- - [Rows](https://www.youtube.com/watch?v=HJSVR_63eKM)
- - [Neck Retraction](http://exrx.net/Stretches/Sternocleidomastoid/NeckRetraction.html)
- - [Wall Arm Slide](http://www.exrx.net/Stretches/PectoralisMinor/Wall.html)
- - [Prone Y](https://www.youtube.com/watch?v=d3EHKNZ0ack)
- - [Bent Over Lateral Raise](http://exrx.net/WeightExercises/DeltoidPosterior/DBRearLateralRaise.html)
- - [Rotator Cuff Abduction](http://www.exrx.net/WeightExercises/Infraspinatus/DBLyingExternalRotation.html)
- 
- Stretches/Mobilization for Lower Crossed Syndrome:
- 
- - [Hip Flexor Stretch](http://www.exrx.net/Stretches/HipFlexors/KneelingHipFlexor.html)
- - [Quadratus Lumborum Stretch](http://www.massagestudyguide.net/wp-content/uploads/2012/10/standing-quadratus-lumborum-stretch.jpg)
- - [Hip Adductor Stretch](http://www.exrx.net/Stretches/HipAdductors/SideLunge.html)
- - [Glutes Stretch](http://www.exrx.net/Stretches/GluteusMaximus/Lying.html)
- - [Cat/Camel Stretch](http://www.exrx.net/Stretches/ErectorSpinae/CatMovement.html)
- - [Hip Flexor Foam Roller Mobilization](http://www.thera-bandacademy.com/elements/clients/images/FmRW_Hip-Flexor-1__201110DD_122817.jpg)
- - [Quad Foam Roller Mobilization](http://www.bicycling.com/sites/default/files/images/exercise-quads.jpg)
- - [IT Band Foam Roller Mobilization](https://www.youtube.com/watch?v=RoHBDim_fzk)
- - [Calf Mobilization with Ball]((http://www.exrx.net/Stretches/GluteusMaximus/Lying.html))
- - [Glutes Mobilization with Ball](https://www.youtube.com/watch?v=QRNjj7C5Ic0)
- 
- 
- Strengthening for Lower Crossed Syndrome:
- 
- - [Hip Hinge](https://www.youtube.com/watch?v=TT838Ha2xmA)
- - [Step Down](http://exrx.net/WeightExercises/GluteusMaximus/BWStepDown.html)
- - [Heel Elevated Step Up](https://www.youtube.com/watch?v=TepWEWzalcY)
- - [Squat Matrix](https://www.youtube.com/watch?v=Jdx2ZAXKNSM)
- - [Bridge/Hip Extension](http://exrx.net/WeightExercises/GluteusMaximus/BWLyingHipExtension.html)
+- [Hip Flexor Stretch](http://www.exrx.net/Stretches/HipFlexors/KneelingHipFlexor.html)
+- [Quadratus Lumborum Stretch](http://www.massagestudyguide.net/wp-content/uploads/2012/10/standing-quadratus-lumborum-stretch.jpg)
+- [Hip Adductor Stretch](http://www.exrx.net/Stretches/HipAdductors/SideLunge.html)
+- [Glutes Stretch](http://www.exrx.net/Stretches/GluteusMaximus/Lying.html)
+- [Cat/Camel Stretch](http://www.exrx.net/Stretches/ErectorSpinae/CatMovement.html)
+- [Hip Flexor Foam Roller Mobilization](http://www.thera-bandacademy.com/elements/clients/images/FmRW_Hip-Flexor-1__201110DD_122817.jpg)
+- [Quad Foam Roller Mobilization](http://www.bicycling.com/sites/default/files/images/exercise-quads.jpg)
+- [IT Band Foam Roller Mobilization](https://www.youtube.com/watch?v=RoHBDim_fzk)
+- [Calf Mobilization with Ball]((http://www.exrx.net/Stretches/GluteusMaximus/Lying.html))
+- [Glutes Mobilization with Ball](https://www.youtube.com/watch?v=QRNjj7C5Ic0)
  
  
- Other Excellent Resources:
+Strengthening for Lower Crossed Syndrome:
  
- - [Fixing the Computer Guy Posture](http://www.kaasplateau.com/stretches.pdf)
- - [Darby Training Systems](http://darbytrainingsystems.com/index.php/all)
- - [Mobility WOD](http://www.mobilitywod.com/)
+- [Hip Hinge](https://www.youtube.com/watch?v=TT838Ha2xmA)
+- [Step Down](http://exrx.net/WeightExercises/GluteusMaximus/BWStepDown.html)
+- [Heel Elevated Step Up](https://www.youtube.com/watch?v=TepWEWzalcY)
+- [Squat Matrix](https://www.youtube.com/watch?v=Jdx2ZAXKNSM)
+- [Bridge/Hip Extension](http://exrx.net/WeightExercises/GluteusMaximus/BWLyingHipExtension.html)
  
  
+Other Excellent Resources:
+
+- [Fixing the Computer Guy Posture](http://www.kaasplateau.com/stretches.pdf)
+- [Darby Training Systems](http://darbytrainingsystems.com/index.php/all)
+- [Mobility WOD](http://www.mobilitywod.com/)
