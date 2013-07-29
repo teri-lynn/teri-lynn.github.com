@@ -152,3 +152,7 @@ Thanks Teri-Lynn for all your help and support.
 always knew how to challenge me to get that extra effort. She is very knowledgeable about 
 a variety of topics including nutrition and if she doesn’t know the answer to a question 
 always follows up. A great motivator!
+
+*David Y says...*
+
+> Attending Teri-Lynn's fitness programs has been excellent in changing my lifestyle to a more fitness oriented one. As the mix of exercises are well thought out, she also lets you know the proper form and the benefits. I look forward to attending the classes as they are tough and enjoyable, which helps me get going for the rest of the week. Thanks again Teri-Lynn.
