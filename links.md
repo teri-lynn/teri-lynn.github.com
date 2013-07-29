@@ -17,13 +17,17 @@ permalink: /links/
 - [Khan Academy](http://www.khanacademy.org/)
 - [TEACHERSpayTEACHERS](http://www.teacherspayteachers.com/)
 
-## Training
+## Nutrition
 
 - [Canada's Food Guide](http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/index-eng.php)
 - [Dieticians of Canada](http://www.dietitians.ca/)
 - [Health Canada](http://www.hc-sc.gc.ca/)
 - [Precision Nutrition](http://www.precisionnutrition.com/)
 - [Still Tasty](http://www.stilltasty.com/)
+- [Chocolate-Covered Katie](http://chocolatecoveredkatie.com/)
+
+## Training
+
 - [Running Room](http://www.runningroom.com/)
 - [PTontheNET](http://www.ptonthenet.com/)
 - [canfitpro](http://www.canfitpro.com/)
@@ -39,3 +43,6 @@ permalink: /links/
 - [Darby Training Systems](http://darbytrainingsystems.com/)
 - [Workout Box](http://www.workoutbox.com/)
 - [7MIN](http://7-min.com/)
+- [100 Best Ab Exercises](http://100-best-ab-exercises.com/best-ab-exercises/)
+- [Mobility Wod](http://www.mobilitywod.com/)
+- [TRX](http://www.trxtraining.com/)
