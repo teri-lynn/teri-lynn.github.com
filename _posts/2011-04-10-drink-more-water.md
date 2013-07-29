@@ -6,6 +6,8 @@ tags:
   - nutrition
 ---
 
+![Mint Water](/images/mint_water.jpg)
+
 ## Health Benefits of Drinking Enough Water
 
 - Prevents dehydration
@@ -37,8 +39,9 @@ water you need each day.
 - Keep water next to you when you are at work or sitting down for long periods 
   of time
 - Keep water ready in the fridge so that it is cold
-- Add lemon or lime slices to your water to give it flavour
+- Add fresh fruit slices like lemons, limes or cucumbers or herbs like mint or rosemary to your water to give it flavour
 - Sip water throughout your meals
 - Drink a glass of water before each meal
 - Eat plenty of fruits and vegetables (they contain water)
 - Set a timer to remind you to drink water throughout the day
+- Drink caffeine-free teas
