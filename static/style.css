@@ -23,6 +23,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 .container {
   width: 740px;
   margin: 48px auto;
