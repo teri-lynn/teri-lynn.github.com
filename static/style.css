@@ -1,13 +1,13 @@
 /* Override normalize.css defaults. */
 html, button, input, select, textarea {
   color: #333333;
-  font-family: 'Palatino', 'Palatino Linotype', 'Georgia', serif;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
 
 /* Override normalize.css defaults. */
 h1, h2, h3, h4, h5, h6 {
   color: #333333;
-  font-family: 'Loved by the King', 'Helvetica', 'Helvetica Neue', 'Arial', sans-serif;
+  font-family: 'Vollkorn', 'Georgia', serif;
 }
 
 html {
