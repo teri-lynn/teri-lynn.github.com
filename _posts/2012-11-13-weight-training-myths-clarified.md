@@ -34,7 +34,7 @@ the muscle rebuilds to repair these tears, it becomes stronger. Just because you
 experience DOMS does not mean your workout was not effective. The only way to know if your 
 workout was effective is whether you increased the intensity from the last time you did it, and
 went to your full maximum with proper form. If you did those things, that is all that 
-matters. Each person has a different body each person's recovery and experience with DOMS
+matters. Each person has a different body so each person's recovery and experience with DOMS
 will be different. 
 
 ## *Myth #4: "Cardio is the best way to lose fat."*
