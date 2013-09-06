@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Body Weight Workout
+title: Body Weight Circuit 
 ---
 
 ![Body Weight Workout](/images/body_weight_workout.jpg)
