@@ -156,3 +156,15 @@ always follows up. A great motivator!
 *David Y says...*
 
 > Attending Teri-Lynn's fitness programs has been excellent in changing my lifestyle to a more fitness oriented one. As the mix of exercises are well thought out, she also lets you know the proper form and the benefits. I look forward to attending the classes as they are tough and enjoyable, which helps me get going for the rest of the week. Thanks again Teri-Lynn.
+
+*Emily D says...*
+
+> With knowledge, passion and dedication, Teri-Lynn Nelson went beyond my expectations of personal training. In May 2013, I started doing Teri-Lynn’s outdoor group workouts. As a fitness enthusiast already, I didn’t join for motivation to keep fit. I joined to enhance my knowledge of form, muscle development and to learn new exercises. Now, Teri-Lynn is my personal trainer. I am blessed to have her coach my fitness journey. 
+
+> Teri-Lynn is THE expert on form and posture. She is dedicated at making sure I perform exercises perfectly so that I don’t injure myself. Since working with Teri-Lynn, my overall strength and performance has increased because of improved form and posture. 
+
+> When I started working out with Teri-Lynn, I had a back injury. Teri-Lynn taught me that if one side of your body is too heavy, it will ruin your posture and harm your form. All of Teri-Lynn’s routines work the full body. With Teri-Lynn’s knowledge and help, I have learned exercises that increased my back’s strength as well as my entire body. This has reduced my back pain immensely. 
+
+> I love learning new routines and exercises. With Teri-Lynn, it never gets boring. From outdoor workouts to weights to bands, I have something new and challenging to look forward to. And the results really show! 
+
+> Working out with Teri-Lynn is a rewarding experience and investment. It’s rare to find a trainer that has as much knowledge, passion and dedication as her. She has the loveliest disposition, but knows when to push you harder. It’s the perfect balance. Highly recommend her!
