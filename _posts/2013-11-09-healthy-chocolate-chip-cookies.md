@@ -9,7 +9,7 @@ These cookies are so soft and delicious, you won't believe that the main ingredi
 
 To make the dough, put all the ingredients except the chocolate chips into a high-speed blender and blend until really smooth. Then add the chocolate chips and pulse the blender to evenly mix them. Spoon the dough onto cookie sheets and bake in the oven for about 7 minutes at 350 degrees. 
 
-- 4 scoops Vanilla Protein Power
+- 3-4 scoops Vanilla Protein Powder
 - One 19 oz can of Chickpeas (drained and rinsed)
 - 3/4 cup Almond Milk
 - 3/4 cup Raisins
@@ -21,7 +21,7 @@ To make the dough, put all the ingredients except the chocolate chips into a hig
 - 4 twists of Sea Salt 
 - 3 hand fulls of Chocolate Chips 
 
-This recipe makes 48 cookies, so if you don't want to make that many, you can store half of the batter in the freezer to make at a later date.
+This recipe makes about 48 cookies, so if you don't want to make that many, you can store half of the batter in the freezer to make at a later date.
 
 You can also store the batter in the fridge and use it as a fruit dip. Even if you are using the dough as a dip, still add in the baking powder -it gives the dip a real "cookie dough" taste. 
 
