@@ -1,39 +1,28 @@
 ---
 layout: post
-title: Strawberry Banana Layered Delight 
+title: Matcha Balls 
 ---
 
-![Strawberry Banana Layered Delight](/images/strawberry_banana.jpg)
+![Matcha Balls](/images/matcha_balls.jpg)
 
-This layered protein cake is made similarly to my [Banana Double Chocolate Cake](http://teri-lynn.ca/2014/04/13/protein-cake/). This is a sweet and summery variation. The burst of strawberries is delightful, and so is the high protein content without the use of sugar! 
+This is a simple recipe to make but it's impressive looking and tasting! You only need a few ingredients and a few minutes. 
 
-Preheat the oven to 335. Put all the cake ingredients into a high speed blender and mix until smooth. Pour into a pan that is lightly greased with coconut oil. Bake for 25-30 minutes.
+Matcha green tea provides impressive health benefits due to its high level of anti-oxidants. One cup of matcha tea is equivalent in health benefits to about ten cups of regular green tea. The great part about this snack is that you also get the added benefit of protein! 
 
-Blend all the icing ingredients in a blender until smooth, and add as much as you wish to the cake. This will make more than double you need for the actual cake, so halve the recipe if you do not want leftovers. 
+###Ingredients
 
-Store the cake in the fridge. 
+- 2 scoops (41g each) vanilla whey protein powder
+- 1/4 cup coconut flour
+- 1/4 cup dry oatmeal 
+- 1 1/2 tsp matcha green tea powder
+- 1/2 tsp stevia 
+- almond milk as needed to bind
+- melted chocolate 
 
-Cake: 
+###Recipe Instructions 
 
-- 2 ripe bananas
-- 8 small strawberries 
-- 1 cup oats
-- 5 scoops strawberry protein powder (each scoop is 30 grams)
-- 1 cup plain Greek yogurt
-- 1 egg 
-- 2 tbsp coconut oil
-- 2 tsp stevia 
-- 2 teaspoons vanilla extract
-- 1 teaspoon baking soda
-- 5 twists sea salt
+Hand mix the first 5 ingredients together in a bowl, and then just add the almond milk to the mixture to bind it. It will be sticky, but you do not want it too runny. You can add more coconut flour if you accidentally use too much milk. Roll into balls. Dampen your hands with water so that the mixture rolls more easily. Drizzle chocolate over top, dunk into chocolate, or just add chocolate chips to the mixture. Place in the freezer to harden the chocolate or to store for later. 
 
-Icing:
-
-- 1 cup cottage cheese
-- 3/4 cup frozen mixed berries
-- 2 scoops strawberry protein powder
-- 1/2 tsp stevia
-
-
+These make a great snack while you are on the go, or a beautiful addition to tea time. 
 
   
