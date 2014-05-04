@@ -13,7 +13,7 @@ Matcha green tea provides impressive health benefits due to its high level of an
 
 - 2 scoops (41g each) vanilla whey protein powder
 - 1/4 cup coconut flour
-- 1/4 cup dry oatmeal 
+- 1/4 - 1/2 cup dry oatmeal 
 - 1 1/2 tsp matcha green tea powder
 - 1/2 tsp stevia 
 - almond milk as needed to bind
