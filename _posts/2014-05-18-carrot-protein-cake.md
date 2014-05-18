@@ -3,7 +3,7 @@ layout: post
 title: Carrot Protein Cake 
 ---
 
-![Carrot Protein Cake](/images/carrot-protein-cake.jpg)
+![Carrot Protein Cake](/images/carrot_protein_cake.jpg)
 
 This carrot protein cake is a spin on my [Banana Double Chocolate Protein Cake](http://teri-lynn.ca/2014/04/13/protein-cake/) and my [Strawberry Banana Layered Delight](http://teri-lynn.ca/2014/04/22/strawberry-banana-layered-delight/). This is my healthy version of a carrot cake - it not only has vegetables, but it also has tons of protein! 
 
