@@ -16,6 +16,8 @@ permalink: /links/
 - [Create Your Own Crossword](http://www.armoredpenguin.com/crossword/)
 - [Khan Academy](http://www.khanacademy.org/)
 - [TEACHERSpayTEACHERS](http://www.teacherspayteachers.com/)
+- [Canadian Online High School](http://www.canadianonlinehighschool.com/)
+- [COHS Blog](http://cdnohs.com/)
 
 ## Nutrition
 
@@ -25,6 +27,8 @@ permalink: /links/
 - [Precision Nutrition](http://www.precisionnutrition.com/)
 - [Still Tasty](http://www.stilltasty.com/)
 - [Chocolate-Covered Katie](http://chocolatecoveredkatie.com/)
+- [Protein Pow](http://proteinpow.com/)
+- [Simple Science Fitness](http://simplesciencefitness.com/)
 
 ## Training
 
@@ -46,3 +50,8 @@ permalink: /links/
 - [100 Best Ab Exercises](http://100-best-ab-exercises.com/best-ab-exercises/)
 - [Mobility Wod](http://www.mobilitywod.com/)
 - [TRX](http://www.trxtraining.com/)
+- [Simple Science Fitness](http://simplesciencefitness.com/)
+- [CrossFit](http://www.crossfit.com/)
+- [WODdrive](http://www.woddrive.com/index.html)
+- [Interval Timer](http://www.intervaltimer.com/timers/4320680)
+- [Tony Horton](http://tonyhortonsworld.com/)

@@ -3,7 +3,7 @@ layout: post
 title: Rhubarb Pie-Cake 
 ---
 
-![Rhubarb Pie Cake](/images/Rhubarb_Pie-Cake.jpg)
+![Rhubarb Pie-Cake](/images/Rhubarb_Pie-Cake.jpg)
 
 Rhubarb is one of the best things about summer! The only problem with all the rhubarb recipes out there is that they all contain so much sugar - since rhubarb is so tart. If you want to be able to enjoy your backyard rhubarb this summer without having to worry about all the sugar and fat in rhubarb pie, this recipe is perfect for you! This pie-cake is deliciously high in protein, contains no sugar, and is made with all healthy ingredients. The creamy yogurt in the recipe gives the same feel as a real custard. Banana and stevia are the secret sweeteners.
 
