@@ -33,7 +33,7 @@ Blend all the pie ingredients in a high speed blender until smooth. Then pour ov
 - 3 scoops vanilla whey protein powder
 - 1 cup plain Greek yogurt
 - 1 egg 
-- 2 tbsp coconut oil
+- 2 tablespoons coconut oil
 - stevia to taste 
 - 2 teaspoons vanilla extract
 - 1.5 teaspoon baking soda
