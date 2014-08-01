@@ -34,10 +34,10 @@ Blend all the pie ingredients in a high speed blender until smooth. Then pour ov
 - 1 cup plain Greek yogurt
 - 1 egg 
 - 2 tablespoons coconut oil
-- stevia to taste 
 - 2 teaspoons vanilla extract
 - 1.5 teaspoon baking soda
 - 5 twists sea salt
+- stevia to taste 
 
 ###Pie Topping:
 
