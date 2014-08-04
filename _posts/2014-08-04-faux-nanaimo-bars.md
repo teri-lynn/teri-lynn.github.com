@@ -36,7 +36,7 @@ Blend everything at once in the blender until smooth. Spoon over the bottom laye
 - 1/2 tsp mint extract, or to taste 
 - 2 hand-fulls spinach (for colour)
 
-![Faux Nanaimo Bars](/images/faux_nanaimo_bar_process2.jpg)
+![Faux Nanaimo Bars](/images/faux_nanaimo_bar_process.jpg)
 
 ###Top Layer
 
