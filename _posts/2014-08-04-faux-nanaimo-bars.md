@@ -3,7 +3,7 @@ layout: post
 title: Faux Nanaimo Bars 
 ---
 
-![Faux Nanaimo Bars](/images/faux_nanaimo_bars.jpg)
+![Faux Nanaimo Bars](/images/faux_nanaimo_bar.jpg)
 
 This is a healthier spin on Nanaimo bars, replacing the traditional butter with sources of healthy fats like almond butter, avocado, and coconut oil. Fruits are also used instead of sugar. Surprisingly, these bars also have some hidden spinach in the middle layer! As a bonus, there's no baking required for these. 
 
@@ -36,7 +36,7 @@ Blend everything at once in the blender until smooth. Spoon over the bottom laye
 - 1/2 tsp mint extract, or to taste 
 - 2 hand-fulls spinach (for colour)
 
-![Faux Nanaimo Bars](/images/faux_nanaimo_bars_process2.jpg)
+![Faux Nanaimo Bars](/images/faux_nanaimo_bar_process2.jpg)
 
 ###Top Layer
 
