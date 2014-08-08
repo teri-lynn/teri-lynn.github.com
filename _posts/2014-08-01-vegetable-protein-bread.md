@@ -11,7 +11,7 @@ You can play around with the spices and flavourings. I basically threw things in
 
 My inspiration for this recipe came from Anna Sward of Protein Pow and her [broccoli bread](http://proteinpow.com/2013/04/low-carb-gluten-free-broccoli-protein.html). 
 
-Preheat the oven to 320 degrees and lightly grease a pie pan with olive oil. Throw all of these ingredients (except the parmesan cheese and pumpkin seeds) into a high speed blender and mix until smooth. Add in the cheese and seeds at the end and pulse a couple of times, or just leave them whole. Pour into a bread pan and bake for about an hour at 320 degrees. This bread will rise a couple centimetres, but not nearly as much as regular bread does, so you can fill the pan almost to the top. 
+Preheat the oven to 320 degrees and lightly grease a loaf pan with olive oil. Throw all of these ingredients (except the parmesan cheese and pumpkin seeds) into a high speed blender and mix until smooth. Add in the cheese and seeds at the end and pulse a couple of times, or just leave them whole. Pour into a bread pan and bake for about an hour at 320 degrees. This bread will rise a couple centimetres, but not nearly as much as regular bread does, so you can fill the pan almost to the top. 
 
 - 2 cups plain or unflavoured protein powder (4 scoops)
 - 1 heaping cup oats
