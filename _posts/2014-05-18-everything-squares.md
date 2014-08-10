@@ -34,17 +34,17 @@ Mix the basic batter together in a high speed blender until very smooth. Just us
 Here's the nutrition information for each square, when cut into 24 servings. 
 
 ####Basic Batter (no chocolate chips or "everything" ingredients):
+- Calories: 77
+- Fat: 2.3g
+- Carbohydrates: 8g
+- Protein: 6.2g 
+
+####Basic Batter and Chocolate Chips (1 cup):
 - Calories: 124
 - Fat: 5.3g 
 - Carbohydrates: 14g
 - Protein: 7g 
 
-
-####Basic Batter and Chocolate Chips (1 cup):
-- Calories: 77
-- Fat: 2.3g
-- Carbohydrates: 8g
-- Protein: 6.2g 
 
 
 
