@@ -32,7 +32,7 @@ To make the vanilla version, follow the same steps, except omit the cocoa powder
 This recipe can be made into plenty of other flavours by playing around with the ingredients. You can try my other versions, such as [Healthy Protein Key Lime Pie](http://teri-lynn.ca/2014/08/01/healthy-protein-key-lime-pie/), [Rhubarb Pie-Cake](http://teri-lynn.ca/2014/06/23/rhubarb-pie-cake/), [Carrot Protein Cake](http://teri-lynn.ca/2014/05/18/carrot-protein-cake/), [Strawberry Banana Layered Delight](http://teri-lynn.ca/2014/04/22/strawberry-banana-layered-delight/), Chocolate Berry Protein Cake, Healthy Black Forest Cake, and Lemon Blueberry Protein Cake. 
 
 
-![Protein Cake](/images/protein_cake_collage.jpg)
+![Protein Cake](/images/protein_cake_collage1.jpg)
 
 
 
