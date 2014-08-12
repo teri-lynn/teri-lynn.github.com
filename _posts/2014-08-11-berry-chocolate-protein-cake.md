@@ -28,7 +28,7 @@ Preheat the oven to 335. Put all the ingredients (except the second cup of berri
 
 The middle icing layer is just some chocolate protein powder mixed with Greek yogurt and a bit of stevia. The top layer is the spread that is used in my recipe for [Peanut Butter Loaf](http://teri-lynn.ca/2014/08/08/peanut-butter-loaf/).
 
-This recipe can be made into plenty of other flavours by playing around with the ingredients. You can try my other versions, such as [Healthy Protein Key Lime Pie](http://teri-lynn.ca/2014/08/01/healthy-protein-key-lime-pie/), [Rhubarb Pie-Cake](http://teri-lynn.ca/2014/06/23/rhubarb-pie-cake/), [Carrot Protein Cake](http://teri-lynn.ca/2014/05/18/carrot-protein-cake/), [Strawberry Banana Layered Delight](http://teri-lynn.ca/2014/04/22/strawberry-banana-layered-delight/), [Chocolate and Vanilla Protein Cake](http://teri-lynn.ca/2014/04/13/protein-cake/), Healthy Black Forest Cake, and Lemon Blueberry Protein Cake. 
+This recipe can be made into plenty of other flavours by playing around with the ingredients. You can try my other versions, such as [Healthy Protein Key Lime Pie](http://teri-lynn.ca/2014/08/01/healthy-protein-key-lime-pie/), [Rhubarb Pie-Cake](http://teri-lynn.ca/2014/06/23/rhubarb-pie-cake/), [Carrot Protein Cake](http://teri-lynn.ca/2014/05/18/carrot-protein-cake/), [Strawberry Banana Layered Delight](http://teri-lynn.ca/2014/04/22/strawberry-banana-layered-delight/), [Chocolate and Vanilla Protein Cake](http://teri-lynn.ca/2014/04/13/protein-cake/), Healthy Black Forest Cake, and [Lemon Blueberry Protein Cake](http://teri-lynn.ca/2014/08/11/lemon-blueberry-protein-cake/). 
 
 
 
