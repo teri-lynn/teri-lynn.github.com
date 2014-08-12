@@ -29,7 +29,7 @@ Optional: chopped walnuts, chocolate chips, chia seeds, hemp seeds, poppy seeds
 
 To make the vanilla version, follow the same steps, except omit the cocoa powder, use vanilla protein powder instead of chocolate, and add a couple teaspoons of cinnamon. 
 
-This recipe can be made into plenty of other flavours by playing around with the ingredients. You can try my other versions, such as [Healthy Protein Key Lime Pie](http://teri-lynn.ca/2014/08/01/healthy-protein-key-lime-pie/), [Rhubarb Pie-Cake](http://teri-lynn.ca/2014/06/23/rhubarb-pie-cake/), [Carrot Protein Cake](http://teri-lynn.ca/2014/05/18/carrot-protein-cake/), [Strawberry Banana Layered Delight](http://teri-lynn.ca/2014/04/22/strawberry-banana-layered-delight/), [Berry Chocolate Protein Cake](http://teri-lynn.ca/2014/08/11/berry-chocolate-protein-cake/), Healthy Black Forest Cake, and [Lemon Blueberry Protein Cake](http://teri-lynn.ca/2014/08/11/lemon-blueberry-protein-cake/). 
+This recipe can be made into plenty of other flavours by playing around with the ingredients. You can try my other versions, such as [Healthy Protein Key Lime Pie](http://teri-lynn.ca/2014/08/01/healthy-protein-key-lime-pie/), [Rhubarb Pie-Cake](http://teri-lynn.ca/2014/06/23/rhubarb-pie-cake/), [Carrot Protein Cake](http://teri-lynn.ca/2014/05/18/carrot-protein-cake/), [Strawberry Banana Layered Delight](http://teri-lynn.ca/2014/04/22/strawberry-banana-layered-delight/), [Berry Chocolate Protein Cake](http://teri-lynn.ca/2014/08/11/berry-chocolate-protein-cake/), [Healthy Black Forest Cake](http://teri-lynn.ca/2014/08/12/healthy-black-forest-cake/), and [Lemon Blueberry Protein Cake](http://teri-lynn.ca/2014/08/11/lemon-blueberry-protein-cake/). 
 
 
 ![Protein Cake](/images/protein_cake_collage1.jpg)
