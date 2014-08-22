@@ -9,7 +9,7 @@ Here's a Black Forest Cake version of my healthy [Protein Cake](http://teri-lynn
  
 ###Recipe
 
-Preheat the oven to 350. Put all the ingredients (except the second cup of cherries, the shredded coconut, and the chocolate chips) into a high speed blender and mix until smooth. Add in about a cup or more of fresh or frozen cherries and as many chocolate chips as you want, and 1/2 cup or more of shredded coconut and hand mix to distribute. Pour into a pan that is lightly greased with coconut oil. Bake for about 30-35 minutes at 350 degrees, more or less, depending on how gooey you want the protein cake. A knife will come out slightly gooey when inserted into the cake. 
+Preheat the oven to 350. Put all the ingredients (except the second cup of cherries, the shredded coconut, and the chocolate chips) into a high speed blender and mix until smooth. Add in about a cup or more of fresh or frozen cherries and pulse the blender a couple times to chop them. Then add as many chocolate chips as you want, and 1/2 cup or more of shredded coconut and hand mix to distribute. Pour into a pan that is lightly greased with coconut oil. Bake for about 30-35 minutes at 350 degrees, more or less, depending on how gooey you want the protein cake. A knife will come out slightly gooey when inserted into the cake. Store in the fridge once cooled. 
 
 - 2 ripe bananas
 - 1 cup cherries + 1 more cup left unblended 
