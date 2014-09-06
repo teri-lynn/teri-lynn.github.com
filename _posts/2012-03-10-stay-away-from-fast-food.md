@@ -7,13 +7,9 @@ tags:
 ---
 ![Subway](/images/Subway.jpg)
 
-Take a look at the nutritional value charts (well, lack of nutritional value) 
-of popular restaurants and fast food chains, and you will be shocked. I always 
-say things in moderation are okay, and that it's okay to treat yourself every 
-so often, but many of the things on these menus are scary enough to never eat! 
-If you are going to eat out, it's a good idea to familiarize yourself with the 
-items on the menus to make better informed decisions when deciding where to go 
-and what to eat there. 
+Take a look at the nutritional value charts (well, lack of nutritional value) of popular restaurants and fast food chains, and you will be shocked. I always say things in moderation are okay, and that it's okay to treat yourself every so often, but many of the things on these menus are scary enough to never eat! Many items have an absurd amount of sugar, unhealthy fats, and calories. A lot of items also include lists of random chemicals and scary ingredients that make calling them food questionable.  
+
+If you are going to eat out, it's a good idea to familiarize yourself with the items on the menus to make better informed decisions when deciding where to go and what to eat there. 
 
 ## Scary Facts
 
@@ -26,7 +22,7 @@ and what to eat there.
   salads have around 50 grams of fat.
 - [Tim Horton](http://www.timhortons.com/ca/pdf/nutrition-guide-can.pdf)'s muffins have more calories and fat than their donuts.
 - A grande vanilla latte from [Starbucks](http://www.starbucks.com/menu) has
-  250 calories. Their frappuccinos have around 400 calories.
+  250 calories and 35g of sugar. Their frappuccinos have around 400 calories and 50-70g of sugar. 
 - One [Subway](http://www.subway.com/nutrition/nutritionlist.ASPX?COUNTRYCODE=CAN&LANGUAGECODE=ENG&id=sandwich) 
   footlong can easily add up to 1000 calories and 50 grams of fat depending on 
   the bread you choose, the meat, and the sauces. I recommend just sticking to 
