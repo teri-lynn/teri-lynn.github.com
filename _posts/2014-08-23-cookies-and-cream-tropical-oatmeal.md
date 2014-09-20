@@ -8,9 +8,12 @@ title: Cookies and Cream Tropical Oatmeal
 Here's an oatmeal that you can make ahead of time overnight, or in the microwave when you want it. It makes a great breakfast or snack. The taste is creamy and rich, with a delicious tropical kick. A great way to get in more protein and add some healthy carbs to fuel your body! 
 
 ###Ingredients
+
+Serves one.
+
 - 1/3 cup oats
 - 1/3 cup unsweetened almond milk
-- 1 scoop Cookies N Cream protien powder (Muslce Pharm Combat)
+- 1 scoop Cookies N Cream protein powder (Muslce Pharm Combat)
 - 2 tbsp plain Greek yogurt (a big spoonful) 
 - 1 tbsp chia seeds
 - 1-2 tbsp unsweetened shredded coconut
