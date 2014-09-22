@@ -16,7 +16,7 @@ Use this batter for [cookies](http://teri-lynn.ca/2013/11/09/healthy-chocolate-c
 Mix all the ingredients except the chocolate chips in a high speed blender until very smooth. Add in the chocolate chips and stir by hand. Pour the mixture into a pan that is lightly greased with coconut oil, and bake in the oven at 350 for about 13 minutes, depending on your pan size. Do not overcook as you want the squares to be soft. Store in the fridge and enjoy these squares cold or warmed up. 
 
 ###Ingredients
-- 3 scoops chocolate whey protein powder
+- 3 scoops chocolate whey [protein powder](http://halfwhey.com/)
 - One 19 oz can of chickpeas (drained and rinsed)
 - 3/4 cup almond milk
 - 1/2 cup raisins

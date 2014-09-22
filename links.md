@@ -29,6 +29,8 @@ permalink: /links/
 - [Chocolate-Covered Katie](http://chocolatecoveredkatie.com/)
 - [Protein Pow](http://proteinpow.com/)
 - [Simple Science Fitness](http://simplesciencefitness.com/)
+- [The Protein Chef](http://dhftns.com/)
+- [HalfWhey](http://halfwhey.com/)
 
 ## Training
 
