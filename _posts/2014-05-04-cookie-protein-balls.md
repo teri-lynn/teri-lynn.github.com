@@ -9,7 +9,7 @@ Here's a variation of my [matcha balls recipe](http://teri-lynn.ca/2014/05/03/ma
 
 ###Ingredients
 
-- 3 scoops cookies n cream [protein powder](http://halfwhey.com/) (35 grams each)
+- 3 scoops [Combat Cookies N Cream](http://halfwhey.com/products/6) protein powder 
 - 1/2 cup oatmeal
 - 1/2 cup almond milk 
 - 1/4 cup coconut flour
