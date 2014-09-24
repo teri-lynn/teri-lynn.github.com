@@ -11,7 +11,7 @@ Here's another variation of my healthy [Protein Cake](http://teri-lynn.ca/2014/0
 
 Preheat the oven to 350. Put all the ingredients (except the second cup of berries and the chocolate chips) into a high speed blender and mix until smooth. Add in about a cup or more of fresh or frozen berries and as many chocolate chips as you want, and hand mix to distribute. 
 
-Pour into a pan that is lightly greased with coconut oil. Bake for about 30 minutes at 350 degrees, more or less, depending on how gooey you want the protein cake. If you want the cake really soft, it will still be a bit giggly in the middle, and only the edges of the pan will be starting to really firm up; it will look like it's not quite done.
+Pour into a pan that is lightly greased with coconut oil. Bake for about 30-40 minutes at 350 degrees, more or less, depending on how gooey you want the protein cake. If you want the cake really soft, it will still be a bit giggly in the middle, and only the edges of the pan will be starting to really firm up; it will look like it's not quite done.
 
 Store in the fridge once cooled, and enjoy warmed up or cold. 
 
