@@ -10,7 +10,7 @@ This fresh and summery cake is perfect for a healthy dessert, to go along with y
 
 ###Recipe
 
-Preheat the oven to 350 degrees and lightly grease a brownie pan with coconut oil. Blend all the ingredients except the blueberries in a high speed blender until smooth. Mix in the blueberries by hand and then pour into the pan and bake for 30-35 minutes at 350 degrees. The cake will be creamier if you cook it for a shorter time; overcooking can dry it out. Use a knife to check with the pie is ready. The knife will come out slightly gooey when ready, if you want creamier squares. Store the pie in the fridge. 
+Preheat the oven to 350 degrees and lightly grease a brownie pan with coconut oil. Blend all the ingredients except the blueberries in a high speed blender until smooth. Mix in the blueberries by hand and then pour into the pan and bake for 30-35 minutes at 350 degrees. The cake will be creamier if you cook it for a shorter time; overcooking can dry it out. Use a knife to check with the cake is ready. The knife will come out slightly gooey when ready, if you want creamier squares. Store the cake in the fridge. 
 
 - 2 - 3 ripe bananas
 - 1/2 - 3/4 cup lemon juice 
