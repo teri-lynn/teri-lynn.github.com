@@ -5,11 +5,15 @@ title: Berry Chocolate Protein Cake
 
 ![Berry Chocolate Protein Cake](/images/berry_chocolate_protein_cake2.jpg)
 
-Here's another variation of my healthy [Protein Cake](http://teri-lynn.ca/2014/04/13/protein-cake/) recipe! The berries keep this cake sweet and soft, are are irresistible when combined with the chocolate. This is an amazing way to enjoy cake without any guilt whatsoever. You can use layering and healthy icings for extra presentation and flavour dimension. 
+Here's another variation of my healthy [Protein Cake](http://teri-lynn.ca/2014/04/13/protein-cake/) recipe! The berries keep this cake sweet and soft, and are irresistible when combined with the chocolate. This is an amazing way to enjoy cake without any guilt whatsoever. You can use layering and healthy icings for extra presentation and flavour dimension. 
  
 ###Recipe
 
-Preheat the oven to 335. Put all the ingredients (except the second cup of berries and the chocolate chips) into a high speed blender and mix until smooth. Add in about a cup or more of fresh or frozen berries and as many chocolate chips as you want, and hand mix to distribute. Pour into a pan that is lightly greased with coconut oil. Bake for about 40 minutes at 335 degrees, more or less, depending on how gooey you want the protein cake. 
+Preheat the oven to 350. Put all the ingredients (except the second cup of berries and the chocolate chips) into a high speed blender and mix until smooth. Add in about a cup or more of fresh or frozen berries and as many chocolate chips as you want, and hand mix to distribute. 
+
+Pour into a pan that is lightly greased with coconut oil. Bake for about 30 minutes at 350 degrees, more or less, depending on how gooey you want the protein cake. If you want the cake really soft, it will still be a bit giggly in the middle, and only the edges of the pan will be starting to really firm up; it will look like it's not quite done.
+
+Store in the fridge once cooled, and enjoy warmed up or cold. 
 
 - 2 ripe bananas
 - 1 cup mixed berries + 1 more cup left unblended 
