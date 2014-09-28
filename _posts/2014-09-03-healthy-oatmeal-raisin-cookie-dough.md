@@ -21,7 +21,7 @@ Mix all the ingredients (except the oatmeal and second portion raisins) together
 - 1 tbsp coconut oil 
 - 1.5 tsp baking powder
 - 2 tsp vanilla extract
-- stevia to taste 
+- stevia to taste (about 25 liquid drops or 1 tsp powdered) 
 - 4 twists sea salt
 - 1 tbsp cinnamon (or more)
 - 1 cup oats (unblended)
