@@ -13,7 +13,7 @@ Here is my oatmeal raisin flavoured cookie dough. The extra touch of cinnamon re
 Mix all the ingredients (except the oatmeal and second portion raisins) together in a high speed blender until very smooth. Only use as much almond milk as you need for the blender to run, in order to keep the dough thick. When smooth, add in the oatmeal and raisins and mix by hand. Store in the fridge and enjoy this cookie dough on it's own, as a dip, cooked into brownies/squares, cooked into cookies, as an icing, or heated up in the microwave.  
 
 ###Ingredients  
-- 3 scoops vanilla whey protein powder (or more)
+- 3 scoops [vanilla whey protein powder](http://halfwhey.com/) (or more)
 - One 19 oz can of chickpeas (drained and rinsed)
 - 1/2 cup almond milk
 - 1/2 cup raisins (to blend in)
