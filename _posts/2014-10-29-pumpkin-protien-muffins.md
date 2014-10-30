@@ -16,7 +16,7 @@ Pour the mixture into a pan that is lightly greased with coconut oil. You can us
 Store in the fridge and enjoy these healthy muffins cold or warmed up. 
 
 ###Ingredients 
-- 3 scoops vanilla protein powder
+- 3 scoops [vanilla whey protein powder](http://halfwhey.com/)
 - one 19 oz can of chickpeas (drained and rinsed)
 - 1 cup almond milk
 - 1 cup pumpkin puree (or more or less to taste) 
