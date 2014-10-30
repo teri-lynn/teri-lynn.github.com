@@ -17,7 +17,7 @@ Store in the fridge and enjoy these healthy muffins cold or warmed up.
 
 ###Ingredients 
 - 3 scoops vanilla protein powder
-- One 19 oz can of chickpeas (drained and rinsed)
+- one 19 oz can of chickpeas (drained and rinsed)
 - 1 cup almond milk
 - 1 cup pumpkin puree (or more or less to taste) 
 - 1/2 cup raisins
