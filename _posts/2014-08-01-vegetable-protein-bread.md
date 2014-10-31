@@ -13,7 +13,7 @@ My inspiration for this recipe came from Anna Sward of Protein Pow and her [broc
 
 Preheat the oven to 320 degrees and lightly grease a loaf pan with olive oil. Throw all of these ingredients (except the parmesan cheese and pumpkin seeds) into a high speed blender and mix until smooth. Add in the cheese and seeds at the end and pulse a couple of times, or just leave them whole. Pour into a bread pan and bake for about an hour at 320 degrees. This bread will rise a couple centimetres, but not nearly as much as regular bread does, so you can fill the pan almost to the top. 
 
-- 2 cups plain or unflavoured protein powder (4 scoops)
+- 2 cups [plain or unflavoured whey protein powder](http://halfwhey.com/products/36) (4 scoops)
 - 1 heaping cup oats
 - 1 3/4 cup egg whites
 - 1/4 cup Greek yogurt
