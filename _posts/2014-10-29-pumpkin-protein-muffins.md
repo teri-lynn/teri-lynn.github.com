@@ -7,6 +7,8 @@ title: Pumpkin Protein Muffins
 
 I love pumpkin, whether it is fall or even summer! Here's another shape and flavour to make my [Everything Squares](http://teri-lynn.ca/2014/05/18/everything-squares/) in. It's a similar recipe but with a totally different result. 
 
+###Recipe
+
 Mix everything together in a high speed blender until very smooth. You may need to use a little more almond milk, depending on how much pumpkin puree you use. 
 
 Once the batter is very smooth, add in the chocolate chips and stir by hand. You can also add in pumpkin seeds, nuts, or raisins if you wish; be creative! 
