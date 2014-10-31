@@ -3,7 +3,7 @@ layout: post
 title: Protein Witch Fingers 
 ---
 
-![Protein Witch Fingers](/images/protein-witch-fingers.jpg)
+![Protein Witch Fingers](/images/protein_witch_fingers.jpg)
 
 Every year, witch finger shortbread cookies are always part of my family's Halloween. Everyone looks forward to the unique tradition. This year, I decided to try making my own healthier version of these beloved cookies. I'm happy with how they turned out! 
 
