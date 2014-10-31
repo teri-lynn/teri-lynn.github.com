@@ -29,8 +29,8 @@ Serve on their own or with a [Healthy Chocolate Dip](http://teri-lynn.ca/2013/10
 - 1/2 cup almond milk
 - big hand-full of spinach (for colour) 
 - 1 cup [vanilla whey protein powder](http://halfwhey.com/)
+- 1/2 cup coconut flour
 - 1/4 cup melted coconut oil
-- 1/4 cup coconut flour
 - 1 tsp vanilla extract
 - 3 twists sea salt 
 - 1/4 cup chocolate chips + 1/2 tsp almond milk 
