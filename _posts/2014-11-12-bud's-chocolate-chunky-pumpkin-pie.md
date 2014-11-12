@@ -16,10 +16,12 @@ Store in the fridge. Enjoy this pie cold, room temperature, or heated up.
 
 You can top this pie with an icing made of Greek yogurt, vanilla or chocolate protein powder, pumpkin puree, cinnamon, nutmeg, and stevia if you wish. 
 
+For a regular healthy pumpkin pie, try omitting the cocoa powder and chocolate chips, and using a [cinnamon swirl whey powder](http://halfwhey.com/products/205) instead of the chocolate whey powder. 
+
 ### Ingredients 
 - 2 ripe bananas
 - 1 cup of oats
-- 3 scoops of [chocolate whey protein powder](http://halfwhey.com/) or a [peanut butter whey protein powder](http://halfwhey.com/products/208)
+- 3 scoops of [chocolate whey protein powder](http://halfwhey.com/) 
 - 1 1/2 cup pumpkin puree 
 - 1 cup of plain Greek yogurt
 - 1 egg 
