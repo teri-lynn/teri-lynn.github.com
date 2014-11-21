@@ -12,7 +12,7 @@ I have always loved eggnog, and always got excited for the first spotting of it 
 Serves 4.
 
 - 4 egg yolks
-- 1 scoop vanilla whey protein powder 
+- 1 scoop [vanilla whey protein powder](http://halfwhey.com/)
 - 2 cups almond milk 
 - 3 heaping tsp [DAVIDsTEA Eggnog](http://www.davidstea.com/eggnog?&TF=72F0C1DCC0A4&DEID=) (rooibos tea)
 - 1/4 tsp cinnamon
