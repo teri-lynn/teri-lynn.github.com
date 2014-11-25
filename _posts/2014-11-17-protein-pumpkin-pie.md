@@ -10,7 +10,9 @@ Here's my healthy alternative to regular pumpkin pie that you can enjoy during t
 If you love chocolate and want a spin on traditional pumpkin pie, try my chocolate version, [Bud's Chocolate Chunky Protein Pie](http://teri-lynn.ca/2014/11/12/bud's-chocolate-chunky-pumpkin-pie/).
 
 ### Recipe
-Preheat the oven to 350 degrees. Put all the ingredients (except the pumpkin seeds and chocolate chips) into a high speed blender and mix until smooth. Pour into a pan that is lightly greased with coconut oil. Add chocolate chips and/or pumpkin seeds to the mixture if you wish (my favourite is adding a few chocolate chips to the batter before cooking). Bake for about 25 minutes. Bake longer if you want a firmer pie, and shorter for an even creamier, softer pie. For a softer pie, take out it out of the oven when only the edges of the cake are starting to firm and crack, and the middle is still pudding-like.
+Preheat the oven to 350 degrees. Put all the ingredients (except the pumpkin seeds and chocolate chips) into a high speed blender and mix until smooth. Pour into a pan that is lightly greased with coconut oil. Add chocolate chips and/or pumpkin seeds to the mixture if you wish (my favourite is adding a few chocolate chips to the batter before cooking). 
+
+Place in one or two pie pans or a large rectangular pan that is lightly greased with coconut oil. Bake for about 25 minutes. Bake longer if you want a firmer pie, and shorter for an even creamier, softer pie. For a softer pie, take out it out of the oven when only the edges of the cake are starting to firm and crack, and the middle is still pudding-like.
 
 Store in the fridge. Enjoy this pie cold, room temperature, or heated up. 
 
@@ -33,4 +35,21 @@ You can top this pie with an icing made of Greek yogurt, vanilla or chocolate pr
 - chocolate chips (optional)
 - roasted pumpkin seeds (optional) 
 
+#### Nutrition Information
+
+##### Whole Recipe
+Here's the nutrition information for the whole recipe:
+
+- Calories: 1295.5  
+- Fat: 23.1g
+- Carbohydrates: 125.5g
+- Protein: 145.9g 
+
+##### 24 Servings 
+Here's the nutrition information when divided into 24 servings:
+
+- Calories: 54
+- Fat 1g
+- Carbohydrates: 5.3g
+- Protein: 6.1g 
  
