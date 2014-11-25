@@ -35,18 +35,18 @@ You can top this pie with an icing made of Greek yogurt, vanilla or chocolate pr
 - chocolate chips (optional)
 - roasted pumpkin seeds (optional) 
 
-#### Nutrition Information
+### Nutrition Information
 
-##### Whole Recipe
-Here's the nutrition information for the whole recipe:
+#### Whole Recipe
+Here's the nutrition information for the whole recipe, not including pumpkin seeds or chocolate chips:
 
 - Calories: 1295.5  
 - Fat: 23.1g
 - Carbohydrates: 125.5g
 - Protein: 145.9g 
 
-##### 24 Servings 
-Here's the nutrition information when divided into 24 servings:
+#### 24 Servings 
+Here's the nutrition information when divided into 24 servings, not including pumpkin seeds or chocolate chips:
 
 - Calories: 54
 - Fat 1g
