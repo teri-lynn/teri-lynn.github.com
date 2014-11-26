@@ -36,7 +36,7 @@ For a regular healthy pumpkin pie, try omitting the cocoa powder and chocolate c
 - chocolate chips 
 - roasted pumpkin seeds 
 
- #### Whole Recipe
+#### Whole Recipe
 Here's the nutrition information for the whole recipe, not including pumpkin seeds or chocolate chips:
 
 - Calories: 1295.5  
@@ -52,8 +52,9 @@ Here's the nutrition information when divided into 24 servings, not including pu
 - Carbohydrates: 5.3g
 - Protein: 6.1g 
  
- #### 12 Servings
+#### 12 Servings
 Here's the nutrition information when divided into 12 servings, not including pumpkin seeds or chocolate chips:
+
 - Calories: 108
 - Fat: 2g
 - Carbohydrates: 10.6g
