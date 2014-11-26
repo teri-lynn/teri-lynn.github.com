@@ -49,7 +49,14 @@ Here's the nutrition information for the whole recipe, not including pumpkin see
 Here's the nutrition information when divided into 24 servings, not including pumpkin seeds or chocolate chips:
 
 - Calories: 54
-- Fat 1g
+- Fat: 1g
 - Carbohydrates: 5.3g
 - Protein: 6.1g 
+ 
+ #### 12 Servings
+Here's the nutrition information when divided into 12 servings, not including pumpkin seeds or chocolate chips:
+- Calories: 108
+- Fat: 2g
+- Carbohydrates: 10.6g
+- Protein: 12.2g 
  
