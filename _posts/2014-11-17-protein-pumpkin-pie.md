@@ -12,7 +12,7 @@ If you love chocolate and want a spin on traditional pumpkin pie, try my chocola
 ### Recipe
 Preheat the oven to 350 degrees. Put all the ingredients (except the pumpkin seeds and chocolate chips) into a high speed blender and mix until smooth. Pour into a pan that is lightly greased with coconut oil. Add chocolate chips and/or pumpkin seeds to the mixture if you wish (my favourite is adding a few chocolate chips to the batter before cooking). 
 
-Place in one or two pie pans or a large rectangular pan that is lightly greased with coconut oil. Bake for about 25 minutes. Bake longer if you want a firmer pie, and shorter for an even creamier, softer pie. For a softer pie, take out it out of the oven when only the edges of the cake are starting to firm and crack, and the middle is still pudding-like.
+Place in one or two pie pans or a large rectangular pan that is lightly greased with coconut oil. Bake for about 25 minutes. Bake longer if you want a firmer pie, and shorter for an even creamier, softer pie. For a softer pie, take it out of the oven when only the edges of the cake are starting to firm and crack, and the middle is still pudding-like.
 
 Store in the fridge. Enjoy this pie cold, room temperature, or heated up. 
 

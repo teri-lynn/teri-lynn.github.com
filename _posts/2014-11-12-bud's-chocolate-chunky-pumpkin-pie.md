@@ -10,7 +10,7 @@ This recipe may have an interesting name, but it does taste way better than it s
 This healthy and crust-less protein pie has the comforting flavour of pumpkin combined with the richness of chocolate. Not only is this delicious treat high in protein, it also has the added benefit of vitamin A, which pumpkins are extremely high in. 
 
 ### Recipe
-Preheat the oven to 350 degrees. Put all the ingredients (except the pumpkin seeds and chocolate chips) into a high speed blender and mix until smooth. Pour into a pan that is lightly greased with coconut oil. You can use two small pie pans or one larger, "brownie" pan. Add chocolate chips and/or pumpkin seeds to the mixture if you wish for the "chunky" aspect of this pie. Bake for about 25 minutes. Bake longer if you want a firmer pie, and shorter for an even creamier, softer pie. For a softer pie, take out it out of the oven when only the edges of the cake are starting to firm and crack, and the middle is still pudding-like.
+Preheat the oven to 350 degrees. Put all the ingredients (except the pumpkin seeds and chocolate chips) into a high speed blender and mix until smooth. Pour into a pan that is lightly greased with coconut oil. You can use two small pie pans or one larger, "brownie" pan. Add chocolate chips and/or pumpkin seeds to the mixture if you wish for the "chunky" aspect of this pie. Bake for about 25 minutes. Bake longer if you want a firmer pie, and shorter for an even creamier, softer pie. For a softer pie, take it out of the oven when only the edges of the cake are starting to firm and crack, and the middle is still pudding-like.
 
 Store in the fridge. Enjoy this pie cold, room temperature, or heated up. 
 
